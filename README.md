@@ -55,5 +55,13 @@
 
 
 ## Contributing:
-> If you would like to contribute to this project then feel free to create a fork!<br>
-> Pull requests are welcomed under the condition that they contain no copyrighted material.
+> If you would like to contribute to this project then feel free to [**create a fork**](<https://github.com/Gama-Tech/AK-Card-Scanner>)!<br>
+> You can also submit bug reports, feature suggestions or missing barcodes via the [**Issues**](<https://github.com/Gama-Tech/AK-Card-Scanner/issues>) page.<br>
+> <sub>**NOTE:** *Please ensure pull requests contain no copyrighted material.*</sub>
+
+## AK Barcode Preservation Project
+> The codes in this application are provided by the community via the AK barcode preservation project: [**Barcode List**](<https://docs.google.com/spreadsheets/d/1CbBiaGXh8Kiq20VubqkGdwByh6mY6jTwFGv_XPnkyVM>).<br>
+> If you're interested in submitting missing cards to the AK barcode preservation project, please join the [**Unofficial Community Discord Server**](<https://discord.gg/kaiser-community-1006111395424768000>)!
+
+
+
