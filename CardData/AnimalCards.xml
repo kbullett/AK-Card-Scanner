@@ -1,0 +1,2551 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<cards>
+  <card>
+    <number>A001</number>
+    <name>Lion</name>
+    <type>Animal</type>
+    <rarity>Gold</rarity>
+    <code>bn4YzOr=</code>
+  </card>
+  <card>
+    <number>A002</number>
+    <name>Great White Shark</name>
+    <type>Animal</type>
+    <rarity>Gold</rarity>
+    <code>bn3z!1NN</code>
+  </card>
+  <card>
+    <number>A003</number>
+    <name>Bald Eagle</name>
+    <type>Animal</type>
+    <rarity>Gold</rarity>
+    <code>bn-JNnoS</code>
+  </card>
+  <card>
+    <number>A004</number>
+    <name>Bengal Tiger</name>
+    <type>Animal</type>
+    <rarity>Gold</rarity>
+    <code>bn1~Dytd</code>
+  </card>
+  <card>
+    <number>A005</number>
+    <name>Polar Bear</name>
+    <type>Animal</type>
+    <rarity>Silver</rarity>
+    <code>bn0%=1?2</code>
+  </card>
+  <card>
+    <number>A006</number>
+    <name>Indian Cobra</name>
+    <type>Animal</type>
+    <rarity>Silver</rarity>
+    <code>bn1B4m'g</code>
+  </card>
+  <card>
+    <number>A007</number>
+    <name>Leo, the Lion Cub</name>
+    <type>Animal</type>
+    <rarity>Bronze</rarity>
+    <code>bn59v17Q</code>
+  </card>
+  <card>
+    <number>A008</number>
+    <name>Blue, the Young Shark</name>
+    <type>Animal</type>
+    <rarity>Bronze</rarity>
+    <code>bn4Yznob</code>
+  </card>
+  <card>
+    <number>A009</number>
+    <name>Icarus, the Young Eagle</name>
+    <type>Animal</type>
+    <rarity>Bronze</rarity>
+    <code>bn.)JP4g</code>
+  </card>
+  <card>
+    <number>A010</number>
+    <name>Gray Wolf</name>
+    <type>Animal</type>
+    <rarity>Bronze</rarity>
+    <code>bn.)J17R</code>
+  </card>
+  <card>
+    <number>A011</number>
+    <name>Giant Panda</name>
+    <type>Animal</type>
+    <rarity>Bronze</rarity>
+    <code>bn1~01Fn</code>
+  </card>
+  <card>
+    <number>A012</number>
+    <name>Nile Crocodile</name>
+    <type>Animal</type>
+    <rarity>Bronze</rarity>
+    <code>bn2^*nh%</code>
+  </card>
+  <card>
+    <number>A013</number>
+    <name>Cheetah</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn5uqnXe</code>
+  </card>
+  <card>
+    <number>A014</number>
+    <name>Leopard</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn6UmOyy</code>
+  </card>
+  <card>
+    <number>A015</number>
+    <name>Black Panther</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn75i1?1</code>
+  </card>
+  <card>
+    <number>A016</number>
+    <name>Snow Leopard</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn-JNOr&gt;</code>
+  </card>
+  <card>
+    <number>A017</number>
+    <name>African Wild Dog</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn.fEnXf</code>
+  </card>
+  <card>
+    <number>A018</number>
+    <name>Side-striped Jackal</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn/FAOyz</code>
+  </card>
+  <card>
+    <number>A019</number>
+    <name>Aslatic Black Bear</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn0b8n`F</code>
+  </card>
+  <card>
+    <number>A020</number>
+    <name>Brown Bear</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn1B4P$Z</code>
+  </card>
+  <card>
+    <number>A021</number>
+    <name>Indian Gavial</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn3&gt;&amp;P-:</code>
+  </card>
+  <card>
+    <number>A022</number>
+    <name>Sawshark</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn5ur1V.</code>
+  </card>
+  <card>
+    <number>A023</number>
+    <name>Goblin Shark</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn6UmnwB</code>
+  </card>
+  <card>
+    <number>A024</number>
+    <name>Smalltooth Sawfish</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn75iP&lt;V</code>
+  </card>
+  <card>
+    <number>A025</number>
+    <name>Peregrine Falcon</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn.fF1U{</code>
+  </card>
+  <card>
+    <number>A027</number>
+    <name>Andean Condor</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn0b9/cS</code>
+  </card>
+  <card>
+    <number>A028</number>
+    <name>Rattlesnake</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn1~0NI{</code>
+  </card>
+  <card>
+    <number>A029</number>
+    <name>Coral Snake</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn2^+/k3</code>
+  </card>
+  <card>
+    <number>A030</number>
+    <name>Electric Ray</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn3z7y|D</code>
+  </card>
+  <card>
+    <number>A031</number>
+    <name>African Elephant</name>
+    <type>Animal</type>
+    <rarity>Silver</rarity>
+    <code>bn2^@[9x</code>
+  </card>
+  <card>
+    <number>A031</number>
+    <name>Manta Ray</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn4Z3[AX</code>
+  </card>
+  <card>
+    <number>A032</number>
+    <name>Golden Eagle</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn5:/&lt;bl</code>
+  </card>
+  <card>
+    <number>A033</number>
+    <name>Anaconda</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn5v)z'#</code>
+  </card>
+  <card>
+    <number>A001</number>
+    <name>Lion</name>
+    <type>Animal</type>
+    <rarity>Gold</rarity>
+    <code>bn4YzOr=</code>
+  </card>
+  <card>
+    <number>A003</number>
+    <name>Bald Eagle</name>
+    <type>Animal</type>
+    <rarity>Gold</rarity>
+    <code>bn-JNnoS</code>
+  </card>
+  <card>
+    <number>A005</number>
+    <name>Hammerhead shark</name>
+    <type>Animal</type>
+    <rarity>Silver</rarity>
+    <code>bn59vP4v</code>
+  </card>
+  <card>
+    <number>A007</number>
+    <name>Leo, the Lion Cub</name>
+    <type>Animal</type>
+    <rarity>Bronze</rarity>
+    <code>bn59v17Q</code>
+  </card>
+  <card>
+    <number>A008</number>
+    <name>Blue, the Young Shark</name>
+    <type>Animal</type>
+    <rarity>Bronze</rarity>
+    <code>bn4Yznob</code>
+  </card>
+  <card>
+    <number>A011</number>
+    <name>Giant Panda</name>
+    <type>Animal</type>
+    <rarity>Bronze</rarity>
+    <code>bn1~01Fn</code>
+  </card>
+  <card>
+    <number>A012</number>
+    <name>Nile Crocodile</name>
+    <type>Animal</type>
+    <rarity>Bronze</rarity>
+    <code>bn2^*nh%</code>
+  </card>
+  <card>
+    <number>A013</number>
+    <name>Cheetah</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn5uqnXe</code>
+  </card>
+  <card>
+    <number>A014</number>
+    <name>Leopard</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn6UmOyy</code>
+  </card>
+  <card>
+    <number>A015</number>
+    <name>Black Panther</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn75i1?1</code>
+  </card>
+  <card>
+    <number>A016</number>
+    <name>Snow Leopard</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn-JNOr&gt;</code>
+  </card>
+  <card>
+    <number>A017</number>
+    <name>African Wild Dog</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn.fEnXf</code>
+  </card>
+  <card>
+    <number>A018</number>
+    <name>Side-striped Jackal</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn/FAOyz</code>
+  </card>
+  <card>
+    <number>A019</number>
+    <name>Aslatic Black Bear</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn0b8n`F</code>
+  </card>
+  <card>
+    <number>A020</number>
+    <name>Brown Bear</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn1B4P$Z</code>
+  </card>
+  <card>
+    <number>A021</number>
+    <name>Indian Gavial</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn3&gt;&amp;P-:</code>
+  </card>
+  <card>
+    <number>A022</number>
+    <name>Sawshark</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn5ur1V.</code>
+  </card>
+  <card>
+    <number>A023</number>
+    <name>Goblin Shark</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn6UmnwB</code>
+  </card>
+  <card>
+    <number>A024</number>
+    <name>Smalltooth Sawfish</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn75iP&lt;V</code>
+  </card>
+  <card>
+    <number>A025</number>
+    <name>Peregrine Falcon</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn.fF1U{</code>
+  </card>
+  <card>
+    <number>A026</number>
+    <name>Great Horned Owll</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn0%=NB?</code>
+  </card>
+  <card>
+    <number>A027</number>
+    <name>Andean Condor</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn0b9/cS</code>
+  </card>
+  <card>
+    <number>A030</number>
+    <name>Bengal Tiger</name>
+    <type>Animal</type>
+    <rarity>Gold</rarity>
+    <code>bn1~Dytd</code>
+  </card>
+  <card>
+    <number>A031</number>
+    <name>African Elephant</name>
+    <type>Animal</type>
+    <rarity>Silver</rarity>
+    <code>bn2^@[9x</code>
+  </card>
+  <card>
+    <number>A032</number>
+    <name>Indian Rhinoceros</name>
+    <type>Animal</type>
+    <rarity>Bronze</rarity>
+    <code>bn3&gt;&lt;&lt;[0</code>
+  </card>
+  <card>
+    <number>A033</number>
+    <name>Electric Ray</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn3z7y|D</code>
+  </card>
+  <card>
+    <number>A034</number>
+    <name>Manta Ray</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn4Z3[AX</code>
+  </card>
+  <card>
+    <number>A035</number>
+    <name>Golden Eagle</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn5:/&lt;bl</code>
+  </card>
+  <card>
+    <number>A036</number>
+    <name>Anaconda</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn5v)z'#</code>
+  </card>
+  <card>
+    <number>A037</number>
+    <name>Red Scorpion</name>
+    <type>Animal</type>
+    <rarity>Gold</rarity>
+    <code>bn3zM (K_</code>
+  </card>
+  <card>
+    <number>A038</number>
+    <name>Dark Scorpion</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn4ZHfls</code>
+  </card>
+  <card>
+    <number>A039</number>
+    <name>Florida Bark Scorpion</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn5:DH2*</code>
+  </card>
+  <card>
+    <number>A040</number>
+    <name>Hippo Larry</name>
+    <type>Animal</type>
+    <rarity>Silver</rarity>
+    <code>bn5v@(S?</code>
+  </card>
+  <card>
+    <number>A041</number>
+    <name>Hippo Barry</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn6V;ftS</code>
+  </card>
+  <card>
+    <number>A042</number>
+    <name>Hippo Harry</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn767H9g</code>
+  </card>
+  <card>
+    <number>A043</number>
+    <name>Kid, The Tiger</name>
+    <type>Animal</type>
+    <rarity>Bronze</rarity>
+    <code>bn-Jxflt</code>
+  </card>
+  <card>
+    <number>A044</number>
+    <name>Joe, The Tiger</name>
+    <type>Animal</type>
+    <rarity>Bronze</rarity>
+    <code>bn.)tH2+</code>
+  </card>
+  <card>
+    <number>A047</number>
+    <name>Rattle Snake, the 2nd</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn1B^f|4</code>
+  </card>
+  <card>
+    <number>A048</number>
+    <name>Coral Snake, the 2nd</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn1~ZHAH</code>
+  </card>
+  <card>
+    <number>A002</number>
+    <name>Great White Shark</name>
+    <type>Animal</type>
+    <rarity>Gold</rarity>
+    <code>bn3z!1NN</code>
+  </card>
+  <card>
+    <number>A003</number>
+    <name>Bald Eagle</name>
+    <type>Animal</type>
+    <rarity>Gold</rarity>
+    <code>bn-JNnoS</code>
+  </card>
+  <card>
+    <number>A004</number>
+    <name>Polar Bear</name>
+    <type>Animal</type>
+    <rarity>Silver</rarity>
+    <code>bn0%=1?2</code>
+  </card>
+  <card>
+    <number>A007</number>
+    <name>Leo, the Lion Cub</name>
+    <type>Animal</type>
+    <rarity>Bronze</rarity>
+    <code>bn59v17Q</code>
+  </card>
+  <card>
+    <number>A008</number>
+    <name>Blue, the Young Shark</name>
+    <type>Animal</type>
+    <rarity>Bronze</rarity>
+    <code>bn4Yznob</code>
+  </card>
+  <card>
+    <number>A009</number>
+    <name>Icarus, the Young Eagle</name>
+    <type>Animal</type>
+    <rarity>Bronze</rarity>
+    <code>bn.)JP4g</code>
+  </card>
+  <card>
+    <number>A011</number>
+    <name>Giant Panda</name>
+    <type>Animal</type>
+    <rarity>Bronze</rarity>
+    <code>bn1~01Fn</code>
+  </card>
+  <card>
+    <number>A013</number>
+    <name>Cheetah</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn5uqnXe</code>
+  </card>
+  <card>
+    <number>A014</number>
+    <name>Leopard</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn6UmOyy</code>
+  </card>
+  <card>
+    <number>A016</number>
+    <name>Snow Leopard</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn-JNOr&gt;</code>
+  </card>
+  <card>
+    <number>A018</number>
+    <name>Side-striped Jackal</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn/FAOyz</code>
+  </card>
+  <card>
+    <number>A020</number>
+    <name>Brown Bear</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn1B4P$Z</code>
+  </card>
+  <card>
+    <number>A021</number>
+    <name>Indian Gavial</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn3&gt;&amp;P-:</code>
+  </card>
+  <card>
+    <number>A024</number>
+    <name>Smalltooth Sawfish</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn75iP&lt;V</code>
+  </card>
+  <card>
+    <number>A025</number>
+    <name>Peregrine Falcon</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn.fF1U{</code>
+  </card>
+  <card>
+    <number>A026</number>
+    <name>Great Horned Owll</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn0%=NB?</code>
+  </card>
+  <card>
+    <number>A033</number>
+    <name>Electric Ray</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn3z7y|D</code>
+  </card>
+  <card>
+    <number>A034</number>
+    <name>Manta Ray</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn4Z3[AX</code>
+  </card>
+  <card>
+    <number>A035</number>
+    <name>Golden Eagle</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn5:/&lt;bl</code>
+  </card>
+  <card>
+    <number>A036</number>
+    <name>Anaconda</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn5v)z'#</code>
+  </card>
+  <card>
+    <number>A037</number>
+    <name>Red Scorpion</name>
+    <type>Animal</type>
+    <rarity>Gold</rarity>
+    <code>bn3zM (K_</code>
+  </card>
+  <card>
+    <number>A038</number>
+    <name>Dark Scorpion</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn4ZHfls</code>
+  </card>
+  <card>
+    <number>A039</number>
+    <name>Florida Bark Scorpion</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn5:DH2*</code>
+  </card>
+  <card>
+    <number>A040</number>
+    <name>Hippo Larry</name>
+    <type>Animal</type>
+    <rarity>Silver</rarity>
+    <code>bn5v@(S?</code>
+  </card>
+  <card>
+    <number>A041</number>
+    <name>Hippo Barry</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn6V;ftS</code>
+  </card>
+  <card>
+    <number>A042</number>
+    <name>Hippo Harry</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn767H9g</code>
+  </card>
+  <card>
+    <number>A043</number>
+    <name>Kid, The Tiger</name>
+    <type>Animal</type>
+    <rarity>Bronze</rarity>
+    <code>bn-Jxflt</code>
+  </card>
+  <card>
+    <number>A044</number>
+    <name>Joe, The Tiger</name>
+    <type>Animal</type>
+    <rarity>Bronze</rarity>
+    <code>bn.)tH2+</code>
+  </card>
+  <card>
+    <number>A047</number>
+    <name>Rattle Snake, the 2nd</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn1B^f|4</code>
+  </card>
+  <card>
+    <number>A048</number>
+    <name>Coral Snake, the 2nd</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn1~ZHAH</code>
+  </card>
+  <card>
+    <number>A053</number>
+    <name>Lowland Gorilla</name>
+    <type>Animal</type>
+    <rarity>Gold</rarity>
+    <code>bn1 ~ o4o&gt;</code>
+  </card>
+  <card>
+    <number>A054</number>
+    <name>Jumbo, The Lowland Gorilla</name>
+    <type>Animal</type>
+    <rarity>Bronze</rarity>
+    <code>bn2^jr4R</code>
+  </card>
+  <card>
+    <number>A055</number>
+    <name>Orangutan</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn3&gt;fSUf</code>
+  </card>
+  <card>
+    <number>A056</number>
+    <name>Starburst Tarantula</name>
+    <type>Animal</type>
+    <rarity>Silver</rarity>
+    <code>bn3zb4vz</code>
+  </card>
+  <card>
+    <number>A057</number>
+    <name>Cobalt Blue Tarantula</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn4Z]r&lt;2</code>
+  </card>
+  <card>
+    <number>A058</number>
+    <name>Indian Elephant</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn0%|4g^</code>
+  </card>
+  <card>
+    <number>A059</number>
+    <name>White Rhinoceros</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn/G#SFJ</code>
+  </card>
+  <card>
+    <number>A060</number>
+    <name>Praying Mantis</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn5:YS]F</code>
+  </card>
+  <card>
+    <number>A007E</number>
+    <name>Special Ops Leo</name>
+    <type>Animal</type>
+    <rarity>Gold</rarity>
+    <code>bn28jw6A</code>
+  </card>
+  <card>
+    <number>A022</number>
+    <name>Sawshark</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn5ur1V</code>
+  </card>
+  <card>
+    <number>A002</number>
+    <name>Great White Shark</name>
+    <type>Animal</type>
+    <rarity>Gold</rarity>
+    <code>bn3z!1NN</code>
+  </card>
+  <card>
+    <number>A004</number>
+    <name>Polar Bear</name>
+    <type>Animal</type>
+    <rarity>Silver</rarity>
+    <code>bn0%=1?2</code>
+  </card>
+  <card>
+    <number>A007</number>
+    <name>Leo, the Lion Cub</name>
+    <type>Animal</type>
+    <rarity>Bronze</rarity>
+    <code>bn59v17Q</code>
+  </card>
+  <card>
+    <number>A009</number>
+    <name>Icarus, the Young Eagle</name>
+    <type>Animal</type>
+    <rarity>Bronze</rarity>
+    <code>bn.)JP4g</code>
+  </card>
+  <card>
+    <number>A011</number>
+    <name>Giant Panda</name>
+    <type>Animal</type>
+    <rarity>Bronze</rarity>
+    <code>bn1~01Fn</code>
+  </card>
+  <card>
+    <number>A013</number>
+    <name>Cheetah</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn5uqnXe</code>
+  </card>
+  <card>
+    <number>A014</number>
+    <name>Leopard</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn6UmOyy</code>
+  </card>
+  <card>
+    <number>A016</number>
+    <name>Snow Leopard</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn-JNOr&gt;</code>
+  </card>
+  <card>
+    <number>A017</number>
+    <name>African Wild Dog</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn.fEnXf</code>
+  </card>
+  <card>
+    <number>A018</number>
+    <name>Side-striped Jackal</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn/FAOyz</code>
+  </card>
+  <card>
+    <number>A020</number>
+    <name>Brown Bear</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn1B4P$Z</code>
+  </card>
+  <card>
+    <number>A021</number>
+    <name>Indian Gavial</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn3&gt;&amp;P-:</code>
+  </card>
+  <card>
+    <number>A022</number>
+    <name>Sawshark</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn5ur1V.</code>
+  </card>
+  <card>
+    <number>A024</number>
+    <name>Smalltooth Sawfish</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn75iP&lt;V</code>
+  </card>
+  <card>
+    <number>A025</number>
+    <name>Peregrine Falcon</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn.fF1U{</code>
+  </card>
+  <card>
+    <number>A026</number>
+    <name>Great Horned Owll</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn0%=NB?</code>
+  </card>
+  <card>
+    <number>A038</number>
+    <name>Dark Scorpion</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn4ZHfls</code>
+  </card>
+  <card>
+    <number>A041</number>
+    <name>Hippo Barry</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn6V;ftS</code>
+  </card>
+  <card>
+    <number>A045</number>
+    <name>Killer Whale</name>
+    <type>Animal</type>
+    <rarity>Bronze</rarity>
+    <code>bn.g'r$6</code>
+  </card>
+  <card>
+    <number>A046</number>
+    <name>Narwhal</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn0bwr+r</code>
+  </card>
+  <card>
+    <number>A047</number>
+    <name>Rattle Snake, the 2nd</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn1B^f|4</code>
+  </card>
+  <card>
+    <number>A048</number>
+    <name>Coral Snake, the 2nd</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn1~ZHAH</code>
+  </card>
+  <card>
+    <number>A053</number>
+    <name>Lowland Gorilla</name>
+    <type>Animal</type>
+    <rarity>Gold</rarity>
+    <code>bn1 ~ o4o&gt;</code>
+  </card>
+  <card>
+    <number>A054</number>
+    <name>Jumbo, The Lowland Gorilla</name>
+    <type>Animal</type>
+    <rarity>Bronze</rarity>
+    <code>bn2^jr4R</code>
+  </card>
+  <card>
+    <number>A055</number>
+    <name>Orangutan</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn3&gt;fSUf</code>
+  </card>
+  <card>
+    <number>A056</number>
+    <name>Starburst Tarantula</name>
+    <type>Animal</type>
+    <rarity>Silver</rarity>
+    <code>bn3zb4vz</code>
+  </card>
+  <card>
+    <number>A057</number>
+    <name>Cobalt Blue Tarantula</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn4Z]r&lt;2</code>
+  </card>
+  <card>
+    <number>A058</number>
+    <name>Indian Elephant</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn0%|4g^</code>
+  </card>
+  <card>
+    <number>A059</number>
+    <name>White Rhinoceros</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn/G#SFJ</code>
+  </card>
+  <card>
+    <number>A060</number>
+    <name>Praying Mantis</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn5:YS]F</code>
+  </card>
+  <card>
+    <number>A061</number>
+    <name>Siegfried</name>
+    <type>Animal</type>
+    <rarity>Ultra</rarity>
+    <code>bn76L4g]</code>
+  </card>
+  <card>
+    <number>A062</number>
+    <name>King Cobra</name>
+    <type>Animal</type>
+    <rarity>Gold</rarity>
+    <code>bn-K1S&gt;j</code>
+  </card>
+  <card>
+    <number>A063</number>
+    <name>American Alligator</name>
+    <type>Animal</type>
+    <rarity>Silver</rarity>
+    <code>bn76a@6x</code>
+  </card>
+  <card>
+    <number>A064</number>
+    <name>Spiny Flower Mantis</name>
+    <type>Animal</type>
+    <rarity>Bronze</rarity>
+    <code>bn5vU4~Z</code>
+  </card>
+  <card>
+    <number>A065</number>
+    <name>Dead Leaf Mantis</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn6VPrCn</code>
+  </card>
+  <card>
+    <number>A066</number>
+    <name>Black Panther, the 2nd</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn76LSe%</code>
+  </card>
+  <card>
+    <number>A067</number>
+    <name>Andean Condor, the 2nd</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn-K1r&lt;3</code>
+  </card>
+  <card>
+    <number>A068</number>
+    <name>Goblin Shark, the 2nd</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn.*-S]G</code>
+  </card>
+  <card>
+    <number>A069</number>
+    <name>Asiatic Black Bear, the 2nd</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn.g(4~[</code>
+  </card>
+  <card>
+    <number>A001</number>
+    <name>Lion</name>
+    <type>Animal</type>
+    <rarity>Gold</rarity>
+    <code>bn4YzOr=</code>
+  </card>
+  <card>
+    <number>A004</number>
+    <name>Polar Bear</name>
+    <type>Animal</type>
+    <rarity>Silver</rarity>
+    <code>bn0%=1?2</code>
+  </card>
+  <card>
+    <number>A007</number>
+    <name>Leo, the Lion Cub</name>
+    <type>Animal</type>
+    <rarity>Bronze</rarity>
+    <code>bn59v17Q</code>
+  </card>
+  <card>
+    <number>A008</number>
+    <name>Blue, the Young Shark</name>
+    <type>Animal</type>
+    <rarity>Bronze</rarity>
+    <code>bn4Yznob</code>
+  </card>
+  <card>
+    <number>A009</number>
+    <name>Icarus, the Young Eagle</name>
+    <type>Animal</type>
+    <rarity>Bronze</rarity>
+    <code>bn.)JP4g</code>
+  </card>
+  <card>
+    <number>A011</number>
+    <name>Giant Panda</name>
+    <type>Animal</type>
+    <rarity>Bronze</rarity>
+    <code>bn1~01Fn</code>
+  </card>
+  <card>
+    <number>A013</number>
+    <name>Cheetah</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn5uqnXe</code>
+  </card>
+  <card>
+    <number>A014</number>
+    <name>Leopard</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn6UmOyy</code>
+  </card>
+  <card>
+    <number>A022</number>
+    <name>Sawshark</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn5ur1V.</code>
+  </card>
+  <card>
+    <number>A025</number>
+    <name>Peregrine Falcon</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn.fF1U{</code>
+  </card>
+  <card>
+    <number>A033</number>
+    <name>Electric Ray</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn3z7y|D</code>
+  </card>
+  <card>
+    <number>A039</number>
+    <name>Florida Bark Scorpion</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn5:DH2*</code>
+  </card>
+  <card>
+    <number>A041E</number>
+    <name>Vampire Hippo Barry</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn3Tb9xi</code>
+  </card>
+  <card>
+    <number>A042</number>
+    <name>Hippo Harry</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn767H9g</code>
+  </card>
+  <card>
+    <number>A046</number>
+    <name>Narwhal</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn0bwr+r</code>
+  </card>
+  <card>
+    <number>A048</number>
+    <name>Coral Snake, the 2nd</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn1~ZHAH</code>
+  </card>
+  <card>
+    <number>A054</number>
+    <name>Jumbo, The Lowland Gorilla</name>
+    <type>Animal</type>
+    <rarity>Bronze</rarity>
+    <code>bn2^jr4R</code>
+  </card>
+  <card>
+    <number>A055</number>
+    <name>Orangutan</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn3&gt;fSUf</code>
+  </card>
+  <card>
+    <number>A057</number>
+    <name>Cobalt Blue Tarantula</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn4Z]r&lt;2</code>
+  </card>
+  <card>
+    <number>A058</number>
+    <name>Indian Elephant</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn0%|4g^</code>
+  </card>
+  <card>
+    <number>A059</number>
+    <name>White Rhinoceros</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn/G#SFJ</code>
+  </card>
+  <card>
+    <number>A062</number>
+    <name>King Cobra</name>
+    <type>Animal</type>
+    <rarity>Gold</rarity>
+    <code>bn-K1S&gt;j</code>
+  </card>
+  <card>
+    <number>A063</number>
+    <name>American Alligator</name>
+    <type>Animal</type>
+    <rarity>Silver</rarity>
+    <code>bn76a@6x</code>
+  </card>
+  <card>
+    <number>A064</number>
+    <name>Spiny Flower Mantis</name>
+    <type>Animal</type>
+    <rarity>Bronze</rarity>
+    <code>bn5vU4~Z</code>
+  </card>
+  <card>
+    <number>A065</number>
+    <name>Dead Leaf Mantis</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn6VPrCn</code>
+  </card>
+  <card>
+    <number>A066</number>
+    <name>Black Panther, the 2nd</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn76LSe%</code>
+  </card>
+  <card>
+    <number>A067</number>
+    <name>Andean Condor, the 2nd</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn-K1r &lt;3</code>
+  </card>
+  <card>
+    <number>A068</number>
+    <name>Goblin Shark, the 2nd</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn.*-S]G</code>
+  </card>
+  <card>
+    <number>A069</number>
+    <name>Asiatic Black Bear, the 2nd</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn.g(4~[</code>
+  </card>
+  <card>
+    <number>A070</number>
+    <name>Vrede</name>
+    <type>Animal</type>
+    <rarity>Gold</rarity>
+    <code>bn-KF^j(</code>
+  </card>
+  <card>
+    <number>A071</number>
+    <name>Schneider</name>
+    <type>Animal</type>
+    <rarity>Silver</rarity>
+    <code>bn.*B@/=</code>
+  </card>
+  <card>
+    <number>A072</number>
+    <name>Baron</name>
+    <type>Animal</type>
+    <rarity>Bronze</rarity>
+    <code>bn.g=}PQ</code>
+  </card>
+  <card>
+    <number>A073</number>
+    <name>Jinrai</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn/G9^qe</code>
+  </card>
+  <card>
+    <number>A074</number>
+    <name>Ronaldo</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn0&amp;5@6y</code>
+  </card>
+  <card>
+    <number>A075</number>
+    <name>Daiba</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn0c0}X1</code>
+  </card>
+  <card>
+    <number>A076</number>
+    <name>Shiro</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn1C+^yE</code>
+  </card>
+  <card>
+    <number>A077</number>
+    <name>Vampire Bat</name>
+    <type>Animal</type>
+    <rarity>Silver</rarity>
+    <code>bn1BsSN)</code>
+  </card>
+  <card>
+    <number>A078</number>
+    <name>Grey Headed Flying Fox</name>
+    <type>Animal</type>
+    <rarity>Bronze</rarity>
+    <code>bn2!'@&gt;Y</code>
+  </card>
+  <card>
+    <number>A079</number>
+    <name>Japanese Long-eared Bat</name>
+    <type>Animal</type>
+    <rarity>Silver</rarity>
+    <code>bn2_!}_m</code>
+  </card>
+  <card>
+    <number>A080</number>
+    <name>Scorch</name>
+    <type>Animal</type>
+    <rarity>Ultra</rarity>
+    <code>bn1C2bPC</code>
+  </card>
+  <card>
+    <number>A007</number>
+    <name>Leo, the Lion Cub</name>
+    <type>Animal</type>
+    <rarity>Bronze</rarity>
+    <code>bn59v17Q</code>
+  </card>
+  <card>
+    <number>A008</number>
+    <name>Blue, the Young Shark</name>
+    <type>Animal</type>
+    <rarity>Bronze</rarity>
+    <code>bn4Yznob</code>
+  </card>
+  <card>
+    <number>A011</number>
+    <name>Giant Panda</name>
+    <type>Animal</type>
+    <rarity>Bronze</rarity>
+    <code>bn1~01Fn</code>
+  </card>
+  <card>
+    <number>A012</number>
+    <name>Nile Crocodile</name>
+    <type>Animal</type>
+    <rarity>Bronze</rarity>
+    <code>bn2^*nh%</code>
+  </card>
+  <card>
+    <number>A014</number>
+    <name>Leopard</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn6UmOyy</code>
+  </card>
+  <card>
+    <number>A016</number>
+    <name>Snow Leopard</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn-JNOr&gt;</code>
+  </card>
+  <card>
+    <number>A017</number>
+    <name>African Wild Dog</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn.fEnXf</code>
+  </card>
+  <card>
+    <number>A021</number>
+    <name>Indian Gavial</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn3&gt;&amp;P-:</code>
+  </card>
+  <card>
+    <number>A025</number>
+    <name>Peregrine Falcon</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn.fF1U{</code>
+  </card>
+  <card>
+    <number>A032</number>
+    <name>Indian Rhinoceros</name>
+    <type>Animal</type>
+    <rarity>Bronze</rarity>
+    <code>bn3&gt;&lt;&lt;[0</code>
+  </card>
+  <card>
+    <number>A034</number>
+    <name>Manta Ray</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn4Z3[AX</code>
+  </card>
+  <card>
+    <number>A036</number>
+    <name>Anaconda</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn5v)z'#</code>
+  </card>
+  <card>
+    <number>A037</number>
+    <name>Red Scorpion</name>
+    <type>Animal</type>
+    <rarity>Gold</rarity>
+    <code>bn3zM (K_</code>
+  </card>
+  <card>
+    <number>A038</number>
+    <name>Dark Scorpion</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn4ZHfls</code>
+  </card>
+  <card>
+    <number>A040</number>
+    <name>Hippo Larry</name>
+    <type>Animal</type>
+    <rarity>Silver</rarity>
+    <code>bn5v@(S?</code>
+  </card>
+  <card>
+    <number>A042</number>
+    <name>Hippo Harry</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn767H9g</code>
+  </card>
+  <card>
+    <number>A055</number>
+    <name>Orangutan</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn3&gt;fSUf</code>
+  </card>
+  <card>
+    <number>A063</number>
+    <name>American Alligator</name>
+    <type>Animal</type>
+    <rarity>Silver</rarity>
+    <code>bn76a@6x</code>
+  </card>
+  <card>
+    <number>A066</number>
+    <name>Black Panther, the 2nd</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn76LSe%</code>
+  </card>
+  <card>
+    <number>A067</number>
+    <name>Andean Condor, the 2nd</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn-K1r &lt;3</code>
+  </card>
+  <card>
+    <number>A068</number>
+    <name>Goblin Shark, the 2nd</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn.*-S]G</code>
+  </card>
+  <card>
+    <number>A069</number>
+    <name>Asiatic Black Bear, the 2nd</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn.g(4~[</code>
+  </card>
+  <card>
+    <number>A070</number>
+    <name>Vrede</name>
+    <type>Animal</type>
+    <rarity>Gold</rarity>
+    <code>bn-KF^j(</code>
+  </card>
+  <card>
+    <number>A071</number>
+    <name>Schneider</name>
+    <type>Animal</type>
+    <rarity>Silver</rarity>
+    <code>bn.*B@/=</code>
+  </card>
+  <card>
+    <number>A072</number>
+    <name>Baron</name>
+    <type>Animal</type>
+    <rarity>Bronze</rarity>
+    <code>bn.g=}PQ</code>
+  </card>
+  <card>
+    <number>A077</number>
+    <name>Vampire Bat</name>
+    <type>Animal</type>
+    <rarity>Silver</rarity>
+    <code>bn1BsSN)</code>
+  </card>
+  <card>
+    <number>A078</number>
+    <name>Grey Headed Flying Fox</name>
+    <type>Animal</type>
+    <rarity>Bronze</rarity>
+    <code>bn2!'@&gt;Y</code>
+  </card>
+  <card>
+    <number>A079</number>
+    <name>Japanese Long-eared Bat</name>
+    <type>Animal</type>
+    <rarity>Silver</rarity>
+    <code>bn2_!}_m</code>
+  </card>
+  <card>
+    <number>A081</number>
+    <name>Yokozuna</name>
+    <type>Animal</type>
+    <rarity>Gold</rarity>
+    <code>bn0&amp;JKb8</code>
+  </card>
+  <card>
+    <number>A082</number>
+    <name>Schwarz</name>
+    <type>Animal</type>
+    <rarity>Silver</rarity>
+    <code>bn2_8j1c</code>
+  </card>
+  <card>
+    <number>A083</number>
+    <name>Oorlog</name>
+    <type>Animal</type>
+    <rarity>Bronze</rarity>
+    <code>bn2!=+lO</code>
+  </card>
+  <card>
+    <number>A084</number>
+    <name>Gaiioth</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn5;&amp;KZW</code>
+  </card>
+  <card>
+    <number>A085</number>
+    <name>Sasuke</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn3(0+t/</code>
+  </card>
+  <card>
+    <number>A086</number>
+    <name>Titan</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn5w!+(k</code>
+  </card>
+  <card>
+    <number>A087</number>
+    <name>Notus</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn3?4KRw</code>
+  </card>
+  <card>
+    <number>A088</number>
+    <name>Courageous Cheetah</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn4[*j9C</code>
+  </card>
+  <card>
+    <number>A089</number>
+    <name>Courageous Coral Snake</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn.*WKZX</code>
+  </card>
+  <card>
+    <number>A090</number>
+    <name>Courageous Electric Ray</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn.gS+{l</code>
+  </card>
+  <card>
+    <number>A091</number>
+    <name>Courageous Praying Mantis</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn/GNjA#</code>
+  </card>
+  <card>
+    <number>A096E</number>
+    <name>Atlas</name>
+    <type>Animal</type>
+    <rarity>Ultra</rarity>
+    <code>bn2tfXWU</code>
+  </card>
+  <card>
+    <number>A096E</number>
+    <name>Atlas</name>
+    <type>Animal</type>
+    <rarity>Ultra</rarity>
+    <code>bn2tfXWU</code>
+  </card>
+  <card>
+    <number>A097E</number>
+    <name>Ares, the Saber-toothed Tiger</name>
+    <type>Animal</type>
+    <rarity>Gold</rarity>
+    <code>bn-a-X_6</code>
+  </card>
+  <card>
+    <number>A098E</number>
+    <name>Ouranos, the Archaeopteryx</name>
+    <type>Animal</type>
+    <rarity>Silver</rarity>
+    <code>bn.A(:#J</code>
+  </card>
+  <card>
+    <number>A099E</number>
+    <name>Poseidon, the Dunkleosteus</name>
+    <type>Animal</type>
+    <rarity>Silver</rarity>
+    <code>bn.}#wE^</code>
+  </card>
+  <card>
+    <number>A101E</number>
+    <name>Mammoth</name>
+    <type>Animal</type>
+    <rarity>Bronze</rarity>
+    <code>bn0&lt;x:+)</code>
+  </card>
+  <card>
+    <number>A102E</number>
+    <name>Saber-toothed Tiger</name>
+    <type>Animal</type>
+    <rarity>Bronze</rarity>
+    <code>bn0xswM&gt;</code>
+  </card>
+  <card>
+    <number>A103E</number>
+    <name>Archaeopteryx</name>
+    <type>Animal</type>
+    <rarity>Bronze</rarity>
+    <code>bn1XoXnR</code>
+  </card>
+  <card>
+    <number>A104E</number>
+    <name>Dunkleosteus</name>
+    <type>Animal</type>
+    <rarity>Bronze</rarity>
+    <code>bn28k:3f</code>
+  </card>
+  <card>
+    <number>A100</number>
+    <name>Apollo, the Liger Cub</name>
+    <type>Animal</type>
+    <rarity>Bronze</rarity>
+    <code>bn/\|Xfr</code>
+  </card>
+  <card>
+    <number>A100E</number>
+    <name>Special Ops Apollo</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn.f\Z|j</code>
+  </card>
+  <card>
+    <number>A108E</number>
+    <name>Galleon</name>
+    <type>Animal</type>
+    <rarity>Ultra</rarity>
+    <code>bn4pYw\Z</code>
+  </card>
+  <card>
+    <number>A093E</number>
+    <name>Spiny Turtle</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn5PU:#I</code>
+  </card>
+  <card>
+    <number>A094E</number>
+    <name>Bateleur</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn60PwE]</code>
+  </card>
+  <card>
+    <number>A095E</number>
+    <name>Great Hornbill</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn6lLXfq</code>
+  </card>
+  <card>
+    <number>A105E</number>
+    <name>Courageous Sawshark</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn2tfwTz</code>
+  </card>
+  <card>
+    <number>A106E</number>
+    <name>Courageous Peregrine Falcon</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn3TbXv2</code>
+  </card>
+  <card>
+    <number>A107E</number>
+    <name>Courageous Side-striped Jackal</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn44^:;F</code>
+  </card>
+  <card>
+    <number>A081</number>
+    <name>Yokozuna</name>
+    <type>Animal</type>
+    <rarity>Gold</rarity>
+    <code>bn0&amp;JKb8</code>
+  </card>
+  <card>
+    <number>A082</number>
+    <name>Schwarz</name>
+    <type>Animal</type>
+    <rarity>Silver</rarity>
+    <code>bn2_8j1c</code>
+  </card>
+  <card>
+    <number>A083</number>
+    <name>Oorlog</name>
+    <type>Animal</type>
+    <rarity>Bronze</rarity>
+    <code>bn2!=+lO</code>
+  </card>
+  <card>
+    <number>A077</number>
+    <name>Vampire Bat</name>
+    <type>Animal</type>
+    <rarity>Silver</rarity>
+    <code>bn1BsSN)</code>
+  </card>
+  <card>
+    <number>A008</number>
+    <name>Blue, the Young Shark</name>
+    <type>Animal</type>
+    <rarity>Bronze</rarity>
+    <code>bn4Yznob</code>
+  </card>
+  <card>
+    <number>A009</number>
+    <name>Icarus, the Young Eagle</name>
+    <type>Animal</type>
+    <rarity>Bronze</rarity>
+    <code>bn.)JP4g</code>
+  </card>
+  <card>
+    <number>A013</number>
+    <name>Cheetah</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn5uqnXe</code>
+  </card>
+  <card>
+    <number>A016</number>
+    <name>Snow Leopard</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn-JNOr&gt;</code>
+  </card>
+  <card>
+    <number>A017</number>
+    <name>African Wild Dog</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn.fEnXf</code>
+  </card>
+  <card>
+    <number>A021</number>
+    <name>Indian Gavial</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn3&gt;&amp;P-:</code>
+  </card>
+  <card>
+    <number>A024</number>
+    <name>Smalltooth Sawfish</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn75iP&lt;V</code>
+  </card>
+  <card>
+    <number>A033</number>
+    <name>Electric Ray</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn3z7y|D</code>
+  </card>
+  <card>
+    <number>A034</number>
+    <name>Manta Ray</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn4Z3[AX</code>
+  </card>
+  <card>
+    <number>A036</number>
+    <name>Anaconda</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn5v)z'#</code>
+  </card>
+  <card>
+    <number>A039</number>
+    <name>Florida Bark Scorpion</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn5:DH2*</code>
+  </card>
+  <card>
+    <number>A046</number>
+    <name>Narwhal</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn0bwr+r</code>
+  </card>
+  <card>
+    <number>A042</number>
+    <name>Hippo Harry</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn767H9g</code>
+  </card>
+  <card>
+    <number>A047</number>
+    <name>Rattlesnake, the 2nd</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn1B^f|4</code>
+  </card>
+  <card>
+    <number>A055</number>
+    <name>Orangutan</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn3&gt;fSUf</code>
+  </card>
+  <card>
+    <number>A057</number>
+    <name>Cobalt Blue Tarantula</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn4Z]r&lt;2</code>
+  </card>
+  <card>
+    <number>A058</number>
+    <name>Indian Elephant</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn0%|4g^</code>
+  </card>
+  <card>
+    <number>A059</number>
+    <name>White Rhinoceros</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn/G#SFJ</code>
+  </card>
+  <card>
+    <number>A060</number>
+    <name>Praying Mantis</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn5:YS]F</code>
+  </card>
+  <card>
+    <number>A065</number>
+    <name>Dead Leaf Mantis</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn6VPrCn</code>
+  </card>
+  <card>
+    <number>A067</number>
+    <name>Andean Condor, the 2nd</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn-K1r&lt;3</code>
+  </card>
+  <card>
+    <number>A079</number>
+    <name>Japanese Long-eared Bat</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn2_!}_m</code>
+  </card>
+  <card>
+    <number>A109E</number>
+    <name>Grizzly Bear</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn0xtYH+</code>
+  </card>
+  <card>
+    <number>A110E</number>
+    <name>Death Scorch</name>
+    <type>Animal</type>
+    <rarity>Ultra</rarity>
+    <code>bn5PUX}n</code>
+  </card>
+  <card>
+    <number>A111E</number>
+    <name>Master Blue</name>
+    <type>Animal</type>
+    <rarity>Gold</rarity>
+    <code>bn0xt:Jc</code>
+  </card>
+  <card>
+    <number>A112E</number>
+    <name>Master Icarus</name>
+    <type>Animal</type>
+    <rarity>Gold</rarity>
+    <code>bn1Xowkw</code>
+  </card>
+  <card>
+    <number>A189E</number>
+    <name>Master Jumbo</name>
+    <type>Animal</type>
+    <rarity>Bronze</rarity>
+    <code>bn-a0:PB</code>
+  </card>
+  <card>
+    <number>A121E</number>
+    <name>Master Leo</name>
+    <type>Animal</type>
+    <rarity>Ultra</rarity>
+    <code>bn2tgYOh</code>
+  </card>
+  <card>
+    <number>A119E</number>
+    <name>Courageous Goblin Shark</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn60QY@K</code>
+  </card>
+  <card>
+    <number>A120E</number>
+    <name>Courageous Brown Long-eared Bat</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn6lM:a_</code>
+  </card>
+  <card>
+    <number>A118E</number>
+    <name>Courageous Asian Black Bear</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn5PUw{7</code>
+  </card>
+  <card>
+    <number>A116E</number>
+    <name>Velez Ray</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn44^Y8k</code>
+  </card>
+  <card>
+    <number>A113E</number>
+    <name>Alligator Snapping Turtle</name>
+    <type>Animal</type>
+    <rarity>Silver</rarity>
+    <code>bn28kY1/</code>
+  </card>
+  <card>
+    <number>A114E</number>
+    <name>Mata mata</name>
+    <type>Animal</type>
+    <rarity>Bronze</rarity>
+    <code>bn2tg:RC</code>
+  </card>
+  <card>
+    <number>A117E</number>
+    <name>Indo-Pacific Sailfish</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn4pz:Z!</code>
+  </card>
+  <card>
+    <number>A129E</number>
+    <name>Golden Stag Beetle</name>
+    <type>Animal</type>
+    <rarity>Bronze</rarity>
+    <code>bn-a.YWI</code>
+  </card>
+  <card>
+    <number>A131E</number>
+    <name>Stag Beetle</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn.}$x=q</code>
+  </card>
+  <card>
+    <number>A188E</number>
+    <name>Master Hippo Harry</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn7LJwy5</code>
+  </card>
+  <card>
+    <number>A127E</number>
+    <name>Caucasus Beetle</name>
+    <type>Animal</type>
+    <rarity>Silver</rarity>
+    <code>bn6IMY_'</code>
+  </card>
+  <card>
+    <number>A130E</number>
+    <name>Japanese Rhino Beetle</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn.A):x]</code>
+  </card>
+  <card>
+    <number>A125E</number>
+    <name>Ninja Trained Siegfried</name>
+    <type>Animal</type>
+    <rarity>Ultra</rarity>
+    <code>bn5PV:x\</code>
+  </card>
+  <card>
+    <number>A137E</number>
+    <name>Konsuke</name>
+    <type>Animal</type>
+    <rarity>Silver</rarity>
+    <code>bn60R;;9</code>
+  </card>
+  <card>
+    <number>A138E</number>
+    <name>Tanumaru</name>
+    <type>Animal</type>
+    <rarity>Bronze</rarity>
+    <code>bn6lMx\M</code>
+  </card>
+  <card>
+    <number>A190E</number>
+    <name>Hanzou</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn.A*wqV</code>
+  </card>
+  <card>
+    <number>A123E</number>
+    <name>Red Knee Tarantula</name>
+    <type>Animal</type>
+    <rarity>Gold</rarity>
+    <code>bn3Tc:p|</code>
+  </card>
+  <card>
+    <number>A126E</number>
+    <name>Hercules Beetle</name>
+    <type>Animal</type>
+    <rarity>Gold</rarity>
+    <code>bn60Qx=p</code>
+  </card>
+  <card>
+    <number>A128E</number>
+    <name>Giraffe Stag Beetle</name>
+    <type>Animal</type>
+    <rarity>Silver</rarity>
+    <code>bn7LI;#&lt;</code>
+  </card>
+  <card>
+    <number>A184E</number>
+    <name>Komodo Dragon</name>
+    <type>Animal</type>
+    <rarity>Bronze</rarity>
+    <code>bn4p\:PA</code>
+  </card>
+  <card>
+    <number>A124E</number>
+    <name>Blue Coral Snake</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn44^x64</code>
+  </card>
+  <card>
+    <number>A132E</number>
+    <name>Longtooth Stag Beetle</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn/\}Y_(</code>
+  </card>
+  <card>
+    <number>A142E</number>
+    <name>Axolotl</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn.}%;;:</code>
+  </card>
+  <card>
+    <number>A143E</number>
+    <name>Courageous Indian Elephant</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn/\}x\N</code>
+  </card>
+  <card>
+    <number>A144E</number>
+    <name>Courageous White Rhinoceros</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn0&lt;yY}b</code>
+  </card>
+  <card>
+    <number>A135E</number>
+    <name>Kaiser Coral</name>
+    <type>Animal</type>
+    <rarity>Ultra</rarity>
+    <code>bn4pZxTm</code>
+  </card>
+  <card>
+    <number>A191E</number>
+    <name>Goemon</name>
+    <type>Animal</type>
+    <rarity>Gold</rarity>
+    <code>bn.}&amp;Y6j</code>
+  </card>
+  <card>
+    <number>A153E</number>
+    <name>Celeo, Leo Jr.</name>
+    <type>Animal</type>
+    <rarity>Bronze</rarity>
+    <code>bn.A)xsK</code>
+  </card>
+  <card>
+    <number>A157E</number>
+    <name>Regulus, Scorch Jr.</name>
+    <type>Animal</type>
+    <rarity>Bronze</rarity>
+    <code>bn4p[XUS</code>
+  </card>
+  <card>
+    <number>A146E</number>
+    <name>Mecha Gorilla-DX</name>
+    <type>Animal</type>
+    <rarity>Gold</rarity>
+    <code>bn44_Z0~</code>
+  </card>
+  <card>
+    <number>A147E</number>
+    <name>Mecha Shark-DX</name>
+    <type>Animal</type>
+    <rarity>Gold</rarity>
+    <code>bn4p[;R6</code>
+  </card>
+  <card>
+    <number>A148E</number>
+    <name>Mecha Eagle-DX</name>
+    <type>Animal</type>
+    <rarity>Gold</rarity>
+    <code>bn5PVxsJ</code>
+  </card>
+  <card>
+    <number>A152E</number>
+    <name>Mecha Lion</name>
+    <type>Animal</type>
+    <rarity>Silver</rarity>
+    <code>bn-a/;R7</code>
+  </card>
+  <card>
+    <number>A149E</number>
+    <name>Mecha Gorilla</name>
+    <type>Animal</type>
+    <rarity>Bronze</rarity>
+    <code>bn60RZ8^</code>
+  </card>
+  <card>
+    <number>A150E</number>
+    <name>Mecha Shark</name>
+    <type>Animal</type>
+    <rarity>Bronze</rarity>
+    <code>bn6lN;Yr</code>
+  </card>
+  <card>
+    <number>A151E</number>
+    <name>Mecha Eagle</name>
+    <type>Animal</type>
+    <rarity>Bronze</rarity>
+    <code>bn7LIx{)</code>
+  </card>
+  <card>
+    <number>A140E</number>
+    <name>Footballfish</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn-a.xTn</code>
+  </card>
+  <card>
+    <number>A141E</number>
+    <name>Dugong</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn.A)Yv%</code>
+  </card>
+  <card>
+    <number>A185E</number>
+    <name>Spotted Hyena</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn5PWwqU</code>
+  </card>
+  <card>
+    <number>A154E</number>
+    <name>Courageous Orangutan</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn.}%Z8_</code>
+  </card>
+  <card>
+    <number>A155E</number>
+    <name>Courageous Spiny Turtle</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn/\~;Ys</code>
+  </card>
+  <card>
+    <number>A145E</number>
+    <name>Zangetsu</name>
+    <type>Animal</type>
+    <rarity>Ultra</rarity>
+    <code>bn3Tcxkj</code>
+  </card>
+  <card>
+    <number>A160E</number>
+    <name>Brutus</name>
+    <type>Animal</type>
+    <rarity>Ultra</rarity>
+    <code>bn60Rw;{</code>
+  </card>
+  <card>
+    <number>A161E</number>
+    <name>Joker</name>
+    <type>Animal</type>
+    <rarity>Gold</rarity>
+    <code>bn6lNX]3</code>
+  </card>
+  <card>
+    <number>A193E</number>
+    <name>Shuffle</name>
+    <type>Animal</type>
+    <rarity>Silver</rarity>
+    <code>bn0&lt;zwy6</code>
+  </card>
+  <card>
+    <number>A162E</number>
+    <name>Ace</name>
+    <type>Animal</type>
+    <rarity>Bronze</rarity>
+    <code>bn7LJ9~G</code>
+  </card>
+  <card>
+    <number>A192E</number>
+    <name>Spade</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn/]!:W~</code>
+  </card>
+  <card>
+    <number>A163E</number>
+    <name>Straight</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn-a/XUT</code>
+  </card>
+  <card>
+    <number>A122E</number>
+    <name>European Bison</name>
+    <type>Animal</type>
+    <rarity>Gold</rarity>
+    <code>bn4pZYWH</code>
+  </card>
+  <card>
+    <number>A164E</number>
+    <name>Sperm Whale</name>
+    <type>Animal</type>
+    <rarity>Silver</rarity>
+    <code>bn.A*9vh</code>
+  </card>
+  <card>
+    <number>A139E</number>
+    <name>Holstein</name>
+    <type>Animal</type>
+    <rarity>Bronze</rarity>
+    <code>bn7LIY}a</code>
+  </card>
+  <card>
+    <number>A165E</number>
+    <name>Reticulated Giraffe</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn.}%w;|</code>
+  </card>
+  <card>
+    <number>A115E</number>
+    <name>African Buffalo</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn3TbwsW</code>
+  </card>
+  <card>
+    <number>A133E</number>
+    <name>Courageous Hippo Barry</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn0&lt;y;#=</code>
+  </card>
+  <card>
+    <number>A134E</number>
+    <name>Courageous Hippo Harry</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn0xtxEQ</code>
+  </card>
+  <card>
+    <number>A159E</number>
+    <name>Mecha Lion-Elite</name>
+    <type>Animal</type>
+    <rarity>Ultra</rarity>
+    <code>bn5PW9vg</code>
+  </card>
+  <card>
+    <number>A167E</number>
+    <name>Master Apollo</name>
+    <type>Animal</type>
+    <rarity>Ultra</rarity>
+    <code>bn0xuwC\</code>
+  </card>
+  <card>
+    <number>A169E</number>
+    <name>Raging Celeo, Leo Jr.</name>
+    <type>Animal</type>
+    <rarity>Silver</rarity>
+    <code>bn28m:)'</code>
+  </card>
+  <card>
+    <number>A170E</number>
+    <name>Raging Regulus, Scorch Jr.</name>
+    <type>Animal</type>
+    <rarity>Silver</rarity>
+    <code>bn2thwK&lt;</code>
+  </card>
+  <card>
+    <number>A136E</number>
+    <name>Blue Hercules</name>
+    <type>Animal</type>
+    <rarity>Gold</rarity>
+    <code>bn5PVYv$</code>
+  </card>
+  <card>
+    <number>A156E</number>
+    <name>Courageous African Buffalo</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn0&lt;yx{*</code>
+  </card>
+  <card>
+    <number>A168E</number>
+    <name>Red Sea Urchin</name>
+    <type>Animal</type>
+    <rarity>Gold</rarity>
+    <code>bn1XqXdpR</code>
+  </card>
+  <card>
+    <number>A174E</number>
+    <name>Purple Sea Urchin</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn5PWXt0</code>
+  </card>
+  <card>
+    <number>A195E</number>
+    <name>Gen. Crusher</name>
+    <type>Animal</type>
+    <rarity>Gold</rarity>
+    <code>bn1Xr:_^</code>
+  </card>
+  <card>
+    <number>A171E</number>
+    <name>Col. Butcher</name>
+    <type>Animal</type>
+    <rarity>Bronze</rarity>
+    <code>bn3TdXlP</code>
+  </card>
+  <card>
+    <number>A172E</number>
+    <name>Lt. Blaster</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn44`:1d</code>
+  </card>
+  <card>
+    <number>A173E</number>
+    <name>Sgt. Striker</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn4p[wRx</code>
+  </card>
+  <card>
+    <number>A194E</number>
+    <name>Pvt. Stinger</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn0xvY>J</code>
+  </card>
+  <card>
+    <number>A166E</number>
+    <name>Emperor Vertus</name>
+    <type>Animal</type>
+    <rarity>Ultra</rarity>
+    <code>bn0&lt;z9~H</code>
+  </card>
+  <card>
+    <number>A176E</number>
+    <name>Armageddon Vertus</name>
+    <type>Animal</type>
+    <rarity>Ultra</rarity>
+    <code>bn/\~wZY</code>
+  </card>
+  <card>
+    <number>A196E</number>
+    <name>Admiral Eraser</name>
+    <type>Animal</type>
+    <rarity>Ultra</rarity>
+    <code>bn28mx#r</code>
+  </card>
+  <card>
+    <number>A177E</number>
+    <name>Mammoth Priest</name>
+    <type>Animal</type>
+    <rarity>Kaiser</rarity>
+    <code>bn0&lt;zX{m</code>
+  </card>
+  <card>
+    <number>A178E</number>
+    <name>Spike Roshi</name>
+    <type>Animal</type>
+    <rarity>Kaiser</rarity>
+    <code>bn0xv:A$</code>
+  </card>
+  <card>
+    <number>A179E</number>
+    <name>Elder Pedronomus</name>
+    <type>Animal</type>
+    <rarity>Kaiser</rarity>
+    <code>bn1Xqwb9</code>
+  </card>
+  <card>
+    <number>A181E</number>
+    <name>Kaiser Two Horn</name>
+    <type>Animal</type>
+    <rarity>Kaiser</rarity>
+    <code>bn2ti:Ha</code>
+  </card>
+  <card>
+    <number>A182E</number>
+    <name>Master Daedalus</name>
+    <type>Animal</type>
+    <rarity>Kaiser</rarity>
+    <code>bn3Tdwiu</code>
+  </card>
+  <card>
+    <number>A183E</number>
+    <name>Hippo Daddy</name>
+    <type>Animal</type>
+    <rarity>Kaiser</rarity>
+    <code>bn44`Y/-</code>
+  </card>
+  <card>
+    <number>A186E</number>
+    <name>Courageous Mecha Shark</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn60SY6i</code>
+  </card>
+  <card>
+    <number>A187E</number>
+    <name>Marionette Gorilla</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn6lO:W}</code>
+  </card>
+  <card>
+    <number>A175E</number>
+    <name>Fake Siegfried</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn.}&amp;:9E</code>
+  </card>
+  <card>
+    <number>A180E</number>
+    <name>Don Bison</name>
+    <type>Animal</type>
+    <rarity>Kaiser</rarity>
+    <code>bn28mY&amp;M</code>
+  </card>
+  <card>
+    <number>A049</number>
+    <name>Polar Bear, the 2nd</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn.fp(S@</code>
+  </card>
+  <card>
+    <number>A051</number>
+    <name>Gray Wolf, the 2nd</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn0%gH9h</code>
+  </card>
+  <card>
+    <number>A092</number>
+    <name>Bright</name>
+    <type>Animal</type>
+    <rarity>Normal</rarity>
+    <code>bn4pYX_5</code>
+  </card>
+</cards>

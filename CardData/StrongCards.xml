@@ -1,0 +1,1333 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+  <card>
+    <number>S002</number>
+    <name>Virtuous Skies</name>
+    <type>Strong</type>
+    <rarity>Silver</rarity>
+    <code>bn3z(3*4</code>
+  </card>
+  <card>
+    <number>S003</number>
+    <name>Ocean Power</name>
+    <type>Strong</type>
+    <rarity>Silver</rarity>
+    <code>bn4Z#pLH</code>
+  </card>
+  <card>
+    <number>S004</number>
+    <name>Victory Power</name>
+    <type>Strong</type>
+    <rarity>Bronze</rarity>
+    <code>bn59|Qm\</code>
+  </card>
+  <card>
+    <number>S005</number>
+    <name>Leadership</name>
+    <type>Strong</type>
+    <rarity>Bronze</rarity>
+    <code>bn5ux32p</code>
+  </card>
+  <card>
+    <number>S006</number>
+    <name>Arctic Training</name>
+    <type>Strong</type>
+    <rarity>Bronze</rarity>
+    <code>bn6UspT'</code>
+  </card>
+  <card>
+    <number>S008</number>
+    <name>Unbreakable Spirit</name>
+    <type>Strong</type>
+    <rarity>Normal</rarity>
+    <code>bn6Ut3QM</code>
+  </card>
+  <card>
+    <number>S009</number>
+    <name>Soul of a King</name>
+    <type>Strong</type>
+    <rarity>Normal</rarity>
+    <code>bn4Z$3Im</code>
+  </card>
+  <card>
+    <number>S011</number>
+    <name>Burning Spirit</name>
+    <type>Strong</type>
+    <rarity>Normal</rarity>
+    <code>bn.fL32q</code>
+  </card>
+  <card>
+    <number>S012</number>
+    <name>Pure Soul</name>
+    <type>Strong</type>
+    <rarity>Normal</rarity>
+    <code>bn0b?3:Q</code>
+  </card>
+  <card>
+    <number>S014</number>
+    <name>Strategic Mind</name>
+    <type>Strong</type>
+    <rarity>Normal</rarity>
+    <code>bn5uxR09</code>
+  </card>
+  <card>
+    <number>S015</number>
+    <name>Insatiable Appetite</name>
+    <type>Strong</type>
+    <rarity>Normal</rarity>
+    <code>bn3&gt;-pcE</code>
+  </card>
+  <card>
+    <number>S016</number>
+    <name>Forbidden Arts</name>
+    <type>Strong</type>
+    <rarity>Normal</rarity>
+    <code>bn2^23B1</code>
+  </card>
+  <card>
+    <number>S017</number>
+    <name>Shining Blade</name>
+    <type>Strong</type>
+    <rarity>Normal</rarity>
+    <code>bn.)PQm]</code>
+  </card>
+  <card>
+    <number>S018</number>
+    <name>Turnaround Blow</name>
+    <type>Strong</type>
+    <rarity>Normal</rarity>
+    <code>bn0%CQu=</code>
+  </card>
+  <card>
+    <number>S020</number>
+    <name>Nasty Surprise</name>
+    <type>Strong</type>
+    <rarity>Normal</rarity>
+    <code>bn59|pk$</code>
+  </card>
+  <card>
+    <number>S021</number>
+    <name>Ultimate Power</name>
+    <type>Strong</type>
+    <rarity>Normal</rarity>
+    <code>bn1~6Q|y</code>
+  </card>
+  <card>
+    <number>S022</number>
+    <name>Early Riser</name>
+    <type>Strong</type>
+    <rarity>Normal</rarity>
+    <code>bn1B:p[e</code>
+  </card>
+  <card>
+    <number>S023</number>
+    <name>Furious Charge</name>
+    <type>Strong</type>
+    <rarity>Normal</rarity>
+    <code>bn-JTpLI</code>
+  </card>
+  <card>
+    <number>S024</number>
+    <name>Hidden Strength</name>
+    <type>Strong</type>
+    <rarity>Normal</rarity>
+    <code>bn/FGpT(</code>
+  </card>
+  <card>
+    <number>S025</number>
+    <name>Wheels of Fate</name>
+    <type>Strong</type>
+    <rarity>Normal</rarity>
+    <code>bn-JU3In</code>
+  </card>
+  <card>
+    <number>S028</number>
+    <name>All Out Power</name>
+    <type>Strong</type>
+    <rarity>Normal</rarity>
+    <code>bn75opra</code>
+  </card>
+  <card>
+    <number>S029</number>
+    <name>Call of the Wild</name>
+    <type>Strong</type>
+    <rarity>Normal</rarity>
+    <code>bn75oQu&lt;</code>
+  </card>
+  <card>
+    <number>S032</number>
+    <name>Hidden Power</name>
+    <type>Strong</type>
+    <rarity>Normal</rarity>
+    <code>bn1BO_&amp;c</code>
+  </card>
+  <card>
+    <number>S033</number>
+    <name>Time of Miracles</name>
+    <type>Strong</type>
+    <rarity>Normal</rarity>
+    <code>bn1~K@Hw</code>
+  </card>
+  <card>
+    <number>S034</number>
+    <name>Focus Charge</name>
+    <type>Strong</type>
+    <rarity>Normal</rarity>
+    <code>bn3&gt;B]5;</code>
+  </card>
+  <card>
+    <number>S035</number>
+    <name>Lightning Speed</name>
+    <type>Strong</type>
+    <rarity>Normal</rarity>
+    <code>bn3z&gt;&gt;VO</code>
+  </card>
+  <card>
+    <number>S036</number>
+    <name>Decisive Strike</name>
+    <type>Strong</type>
+    <rarity>Normal</rarity>
+    <code>bn4Z9{wc</code>
+  </card>
+  <card>
+    <number>S001</number>
+    <name>Mighty Fighter</name>
+    <type>Strong</type>
+    <rarity>Silver</rarity>
+    <code>bn0&lt;~=_'</code>
+  </card>
+  <card>
+    <number>S005</number>
+    <name>Leadership</name>
+    <type>Strong</type>
+    <rarity>Silver</rarity>
+    <code>bn5ux32p</code>
+  </card>
+  <card>
+    <number>S009</number>
+    <name>Soul Of A King</name>
+    <type>Strong</type>
+    <rarity>Normal</rarity>
+    <code>bn4Z$3Im</code>
+  </card>
+  <card>
+    <number>S011</number>
+    <name>Burning Spirit</name>
+    <type>Strong</type>
+    <rarity>Normal</rarity>
+    <code>bn.fL32q</code>
+  </card>
+  <card>
+    <number>S012</number>
+    <name>Pure Soul</name>
+    <type>Strong</type>
+    <rarity>Normal</rarity>
+    <code>bn0b?3:Q</code>
+  </card>
+  <card>
+    <number>S018</number>
+    <name>Turnaround Blow</name>
+    <type>Strong</type>
+    <rarity>Normal</rarity>
+    <code>bn0%CQu=</code>
+  </card>
+  <card>
+    <number>S021</number>
+    <name>Ultimate Power</name>
+    <type>Strong</type>
+    <rarity>Normal</rarity>
+    <code>bn1~6Q|y</code>
+  </card>
+  <card>
+    <number>S024</number>
+    <name>Hidden Strength</name>
+    <type>Strong</type>
+    <rarity>Normal</rarity>
+    <code>bn/FGpT(</code>
+  </card>
+  <card>
+    <number>S029</number>
+    <name>Call of the Wild</name>
+    <type>Strong</type>
+    <rarity>Normal</rarity>
+    <code>bn75oQu&lt;</code>
+  </card>
+  <card>
+    <number>S032</number>
+    <name>Hidden Power</name>
+    <type>Strong</type>
+    <rarity>Bronze</rarity>
+    <code>bn1BO_&amp;c</code>
+  </card>
+  <card>
+    <number>S033</number>
+    <name>Time of Miracles</name>
+    <type>Strong</type>
+    <rarity>Normal</rarity>
+    <code>bn1~K@Hw</code>
+  </card>
+  <card>
+    <number>S034</number>
+    <name>Focus Charge</name>
+    <type>Strong</type>
+    <rarity>Normal</rarity>
+    <code>bn3&gt;B]5;</code>
+  </card>
+  <card>
+    <number>S035</number>
+    <name>Lightning Speed</name>
+    <type>Strong</type>
+    <rarity>Normal</rarity>
+    <code>bn3z&gt;&gt;VO</code>
+  </card>
+  <card>
+    <number>S038</number>
+    <name>Secret Moonlight</name>
+    <type>Strong</type>
+    <rarity>Silver</rarity>
+    <code>bn.) zKe)</code>
+  </card>
+  <card>
+    <number>S039</number>
+    <name>King's Insignia</name>
+    <type>Strong</type>
+    <rarity>Bronze</rarity>
+    <code>bn.fv-)&gt;</code>
+  </card>
+  <card>
+    <number>S040</number>
+    <name>Sea Lord's Insignia</name>
+    <type>Strong</type>
+    <rarity>Bronze</rarity>
+    <code>bn6VVuvl</code>
+  </card>
+  <card>
+    <number>S041</number>
+    <name>Desire for Power</name>
+    <type>Strong</type>
+    <rarity>Normal</rarity>
+    <code>bn/FqjKR</code>
+  </card>
+  <card>
+    <number>S042</number>
+    <name>Flash of Light</name>
+    <type>Strong</type>
+    <rarity>Normal</rarity>
+    <code>bn0%mKlf</code>
+  </card>
+  <card>
+    <number>S043</number>
+    <name>Feel for Battle</name>
+    <type>Strong</type>
+    <rarity>Normal</rarity>
+    <code>bn1~`KtF</code>
+  </card>
+  <card>
+    <number>S044</number>
+    <name>Spirit of Gaia</name>
+    <type>Strong</type>
+    <rarity>Normal</rarity>
+    <code>bn0bi-1z</code>
+  </card>
+  <card>
+    <number>S045</number>
+    <name>Dream of Victory</name>
+    <type>Strong</type>
+    <rarity>Normal</rarity>
+    <code>bn1BdjS2</code>
+  </card>
+  <card>
+    <number>S009</number>
+    <name>Soul Of A King</name>
+    <type>Strong</type>
+    <rarity>Normal</rarity>
+    <code>bn4Z$3Im</code>
+  </card>
+  <card>
+    <number>S012</number>
+    <name>Pure Soul</name>
+    <type>Strong</type>
+    <rarity>Normal</rarity>
+    <code>bn0b?3:Q</code>
+  </card>
+  <card>
+    <number>S018</number>
+    <name>Turnaround Blow</name>
+    <type>Strong</type>
+    <rarity>Normal</rarity>
+    <code>bn0%CQu=</code>
+  </card>
+  <card>
+    <number>S021</number>
+    <name>Ultimate Power</name>
+    <type>Strong</type>
+    <rarity>Normal</rarity>
+    <code>bn1~6Q|y</code>
+  </card>
+  <card>
+    <number>S024</number>
+    <name>Hidden Strength</name>
+    <type>Strong</type>
+    <rarity>Normal</rarity>
+    <code>bn/FGpT(</code>
+  </card>
+  <card>
+    <number>S029</number>
+    <name>Call of the Wild</name>
+    <type>Strong</type>
+    <rarity>Normal</rarity>
+    <code>bn75oQu&lt;</code>
+  </card>
+  <card>
+    <number>S033</number>
+    <name>Time of Miracles</name>
+    <type>Strong</type>
+    <rarity>Normal</rarity>
+    <code>bn1~K@Hw</code>
+  </card>
+  <card>
+    <number>S034</number>
+    <name>Focus Charge</name>
+    <type>Strong</type>
+    <rarity>Normal</rarity>
+    <code>bn3&gt;B]5;</code>
+  </card>
+  <card>
+    <number>S039</number>
+    <name>King's Insignia</name>
+    <type>Strong</type>
+    <rarity>Bronze</rarity>
+    <code>bn.fv-)&gt;</code>
+  </card>
+  <card>
+    <number>S040</number>
+    <name>Sea Lord's Insignia</name>
+    <type>Strong</type>
+    <rarity>Bronze</rarity>
+    <code>bn6VVuvl</code>
+  </card>
+  <card>
+    <number>S041</number>
+    <name>Desire for Power</name>
+    <type>Strong</type>
+    <rarity>Normal</rarity>
+    <code>bn/FqjKR</code>
+  </card>
+  <card>
+    <number>S042</number>
+    <name>Flash of Light</name>
+    <type>Strong</type>
+    <rarity>Normal</rarity>
+    <code>bn0%mKlf</code>
+  </card>
+  <card>
+    <number>S043</number>
+    <name>Feel for Battle</name>
+    <type>Strong</type>
+    <rarity>Normal</rarity>
+    <code>bn1~`KtF</code>
+  </card>
+  <card>
+    <number>S044</number>
+    <name>Spirit of Gaia</name>
+    <type>Strong</type>
+    <rarity>Normal</rarity>
+    <code>bn0bi-1z</code>
+  </card>
+  <card>
+    <number>S045</number>
+    <name>Dream of Victory</name>
+    <type>Strong</type>
+    <rarity>Normal</rarity>
+    <code>bn1BdjS2</code>
+  </card>
+  <card>
+    <number>S046</number>
+    <name>Glory of Victory</name>
+    <type>Strong</type>
+    <rarity>Silver</rarity>
+    <code>bn.*3W4E</code>
+  </card>
+  <card>
+    <number>S047E</number>
+    <name>Swift Blow</name>
+    <type>Strong</type>
+    <rarity>Silver</rarity>
+    <code>bn2tl{*x</code>
+  </card>
+  <card>
+    <number>S048</number>
+    <name>Zeus's Insignia</name>
+    <type>Strong</type>
+    <rarity>Bronze</rarity>
+    <code>bn76RW&lt;#</code>
+  </card>
+  <card>
+    <number>S030</number>
+    <name>Showdown</name>
+    <type>Strong</type>
+    <rarity>Silver</rarity>
+    <code>bn0%X@A;</code>
+  </card>
+  <card>
+    <number>S050</number>
+    <name>Iron Barrier</name>
+    <type>Strong</type>
+    <rarity>Normal</rarity>
+    <code>bn-K7uo1</code>
+  </card>
+  <card>
+    <number>S051</number>
+    <name>Spiritual Ease</name>
+    <type>Strong</type>
+    <rarity>Normal</rarity>
+    <code>bn/G)uvm</code>
+  </card>
+  <card>
+    <number>S052</number>
+    <name>Strike Fast</name>
+    <type>Strong</type>
+    <rarity>Normal</rarity>
+    <code>bn0&amp;%W&lt;$</code>
+  </card>
+  <card>
+    <number>S053</number>
+    <name>Eat your fill</name>
+    <type>Strong</type>
+    <rarity>Normal</rarity>
+    <code>bn0b~8]9</code>
+  </card>
+  <card>
+    <number>S007E</number>
+    <name>Tenacious Soul</name>
+    <type>Special</type>
+    <rarity>Normal</rarity>
+    <code>bn0xy{#&lt;</code>
+  </card>
+  <card>
+    <number>S012</number>
+    <name>Pure Soul</name>
+    <type>Strong</type>
+    <rarity>Normal</rarity>
+    <code>bn0b?3:Q</code>
+  </card>
+  <card>
+    <number>S013E</number>
+    <name>LightSpeed</name>
+    <type>Strong</type>
+    <rarity>Normal</rarity>
+    <code>bn1Xu\EP</code>
+  </card>
+  <card>
+    <number>S017</number>
+    <name>Shining Blade</name>
+    <type>Strong</type>
+    <rarity>Normal</rarity>
+    <code>bn.)PQm]</code>
+  </card>
+  <card>
+    <number>S018</number>
+    <name>Turnaround Blow</name>
+    <type>Strong</type>
+    <rarity>Normal</rarity>
+    <code>bn0%CQu=</code>
+  </card>
+  <card>
+    <number>S019E</number>
+    <name>Bodybuilder</name>
+    <type>Strong</type>
+    <rarity>Normal</rarity>
+    <code>bn28q=fd</code>
+  </card>
+  <card>
+    <number>S024</number>
+    <name>Hidden Strength</name>
+    <type>Strong</type>
+    <rarity>Normal</rarity>
+    <code>bn/FGpT(</code>
+  </card>
+  <card>
+    <number>S029</number>
+    <name>Call of the Wild</name>
+    <type>Strong</type>
+    <rarity>Normal</rarity>
+    <code>bn75oQu&lt;</code>
+  </card>
+  <card>
+    <number>S031</number>
+    <name>Unchained Power</name>
+    <type>Strong</type>
+    <rarity>Silver</rarity>
+    <code>bn0bS}bO</code>
+  </card>
+  <card>
+    <number>S033</number>
+    <name>Time of Miracles</name>
+    <type>Strong</type>
+    <rarity>Normal</rarity>
+    <code>bn1~K@Hw</code>
+  </card>
+  <card>
+    <number>S034</number>
+    <name>Focus Charge</name>
+    <type>Strong</type>
+    <rarity>Normal</rarity>
+    <code>bn3&gt;B]5;</code>
+  </card>
+  <card>
+    <number>S037</number>
+    <name>Raging Ocean</name>
+    <type>Strong</type>
+    <rarity>Silver</rarity>
+    <code>bn-J~jCr</code>
+  </card>
+  <card>
+    <number>S039</number>
+    <name>King's Insignia</name>
+    <type>Strong</type>
+    <rarity>Bronze</rarity>
+    <code>bn.fv-)&gt;</code>
+  </card>
+  <card>
+    <number>S040</number>
+    <name>Sea Lord's Insignia</name>
+    <type>Strong</type>
+    <rarity>Bronze</rarity>
+    <code>bn6VVuvl</code>
+  </card>
+  <card>
+    <number>S043</number>
+    <name>Feel for Battle</name>
+    <type>Strong</type>
+    <rarity>Normal</rarity>
+    <code>bn1~`KtF</code>
+  </card>
+  <card>
+    <number>S044</number>
+    <name>Spirit of Gaia</name>
+    <type>Strong</type>
+    <rarity>Normal</rarity>
+    <code>bn0bi-1z</code>
+  </card>
+  <card>
+    <number>S045</number>
+    <name>Dream of Victory</name>
+    <type>Strong</type>
+    <rarity>Normal</rarity>
+    <code>bn1BdjS2</code>
+  </card>
+  <card>
+    <number>S048</number>
+    <name>Zeus's Insignia</name>
+    <type>Strong</type>
+    <rarity>Bronze</rarity>
+    <code>bn76RW&lt;#</code>
+  </card>
+  <card>
+    <number>S049</number>
+    <name>Deadly Technique</name>
+    <type>Strong</type>
+    <rarity>Bronze</rarity>
+    <code>bn.g/8UY</code>
+  </card>
+  <card>
+    <number>S050</number>
+    <name>Iron Barrier</name>
+    <type>Strong</type>
+    <rarity>Normal</rarity>
+    <code>bn-K7uo1</code>
+  </card>
+  <card>
+    <number>S051</number>
+    <name>Spiritual Ease</name>
+    <type>Strong</type>
+    <rarity>Normal</rarity>
+    <code>bn/G)uvm</code>
+  </card>
+  <card>
+    <number>S052</number>
+    <name>Strike Fast</name>
+    <type>Strong</type>
+    <rarity>Normal</rarity>
+    <code>bn0&amp;%W&lt;$</code>
+  </card>
+  <card>
+    <number>S053</number>
+    <name>Eat your fill</name>
+    <type>Strong</type>
+    <rarity>Normal</rarity>
+    <code>bn0b~8]9</code>
+  </card>
+  <card>
+    <number>S012</number>
+    <name>Pure Soul</name>
+    <type>Strong</type>
+    <rarity>Normal</rarity>
+    <code>bn0b?3:Q</code>
+  </card>
+  <card>
+    <number>S017</number>
+    <name>Shining Blade</name>
+    <type>Strong</type>
+    <rarity>Normal</rarity>
+    <code>bn.)PQm]</code>
+  </card>
+  <card>
+    <number>S018</number>
+    <name>Turnaround Blow</name>
+    <type>Strong</type>
+    <rarity>Normal</rarity>
+    <code>bn0%CQu=</code>
+  </card>
+  <card>
+    <number>S024</number>
+    <name>Hidden Strength</name>
+    <type>Strong</type>
+    <rarity>Normal</rarity>
+    <code>bn/FGpT(</code>
+  </card>
+  <card>
+    <number>S029</number>
+    <name>Call of the Wild</name>
+    <type>Strong</type>
+    <rarity>Normal</rarity>
+    <code>bn75oQu&lt;</code>
+  </card>
+  <card>
+    <number>S043</number>
+    <name>Feel For Battle</name>
+    <type>Strong</type>
+    <rarity>Normal</rarity>
+    <code>bn1~`KtF</code>
+  </card>
+  <card>
+    <number>S049</number>
+    <name>Deadly Technique</name>
+    <type>Strong</type>
+    <rarity>Bronze</rarity>
+    <code>bn.g/8UY</code>
+  </card>
+  <card>
+    <number>S050</number>
+    <name>Iron Barrier</name>
+    <type>Strong</type>
+    <rarity>Normal</rarity>
+    <code>bn-K7uo1</code>
+  </card>
+  <card>
+    <number>S053</number>
+    <name>Eat Your Fill</name>
+    <type>Strong</type>
+    <rarity>Normal</rarity>
+    <code>bn0b~8]9</code>
+  </card>
+  <card>
+    <number>S054</number>
+    <name>Fight For Justice</name>
+    <type>Strong</type>
+    <rarity>Silver</rarity>
+    <code>bn6Vl$F*</code>
+  </card>
+  <card>
+    <number>S055</number>
+    <name>Midnight Moves</name>
+    <type>Strong</type>
+    <rarity>Silver</rarity>
+    <code>bn76gbg?</code>
+  </card>
+  <card>
+    <number>S056</number>
+    <name>Use Your Head</name>
+    <type>Strong</type>
+    <rarity>Bronze</rarity>
+    <code>bn5vpD#s</code>
+  </card>
+  <card>
+    <number>S057</number>
+    <name>Element Of Surprise</name>
+    <type>Strong</type>
+    <rarity>Bronze</rarity>
+    <code>bn-KM$&gt;L</code>
+  </card>
+  <card>
+    <number>S058</number>
+    <name>Spy Satellite</name>
+    <type>Strong</type>
+    <rarity>Normal</rarity>
+    <code>bn.*Hb_`</code>
+  </card>
+  <card>
+    <number>S059</number>
+    <name>Hot Pursuit</name>
+    <type>Strong</type>
+    <rarity>Normal</rarity>
+    <code>bn.gDD#t</code>
+  </card>
+  <card>
+    <number>S060</number>
+    <name>Reversal Of Fortune</name>
+    <type>Strong</type>
+    <rarity>Normal</rarity>
+    <code>bn/G@$F+</code>
+  </card>
+  <card>
+    <number>S061</number>
+    <name>Bountiful Harvest</name>
+    <type>Strong</type>
+    <rarity>Normal</rarity>
+    <code>bn0&amp;;bg@</code>
+  </card>
+  <card>
+    <number>S012</number>
+    <name>Pure Soul</name>
+    <type>Strong</type>
+    <rarity>Normal</rarity>
+    <code>bn0b?3:Q</code>
+  </card>
+  <card>
+    <number>S018</number>
+    <name>Turnaround Blow</name>
+    <type>Strong</type>
+    <rarity>Normal</rarity>
+    <code>bn0%CQu=</code>
+  </card>
+  <card>
+    <number>S024</number>
+    <name>Hidden Strength</name>
+    <type>Strong</type>
+    <rarity>Normal</rarity>
+    <code>bn/FGpT(</code>
+  </card>
+  <card>
+    <number>S029</number>
+    <name>Call of the Wild</name>
+    <type>Strong</type>
+    <rarity>Normal</rarity>
+    <code>bn75oQu&lt;</code>
+  </card>
+  <card>
+    <number>S043</number>
+    <name>Feel For Battle</name>
+    <type>Strong</type>
+    <rarity>Normal</rarity>
+    <code>bn1~`KtF</code>
+  </card>
+  <card>
+    <number>S050</number>
+    <name>Iron Barrier</name>
+    <type>Strong</type>
+    <rarity>Normal</rarity>
+    <code>bn-K7uo1</code>
+  </card>
+  <card>
+    <number>S056</number>
+    <name>Use Your Head</name>
+    <type>Strong</type>
+    <rarity>Bronze</rarity>
+    <code>bn5vpD#s</code>
+  </card>
+  <card>
+    <number>S058</number>
+    <name>Spy Satellite</name>
+    <type>Strong</type>
+    <rarity>Normal</rarity>
+    <code>bn.*Hb_`</code>
+  </card>
+  <card>
+    <number>S059</number>
+    <name>Hot Pursuit</name>
+    <type>Strong</type>
+    <rarity>Normal</rarity>
+    <code>bn.gDD#t</code>
+  </card>
+  <card>
+    <number>S060</number>
+    <name>Reversal Of Fortune</name>
+    <type>Strong</type>
+    <rarity>Normal</rarity>
+    <code>bn/G@$F+</code>
+  </card>
+  <card>
+    <number>S061</number>
+    <name>Bountiful Harvest</name>
+    <type>Strong</type>
+    <rarity>Normal</rarity>
+    <code>bn0&amp;;bg@</code>
+  </card>
+  <card>
+    <number>S062</number>
+    <name>Dirty Fighters</name>
+    <type>Strong</type>
+    <rarity>Silver</rarity>
+    <code>bn0&amp;PO96</code>
+  </card>
+  <card>
+    <number>S063</number>
+    <name>Lone Warrior</name>
+    <type>Strong</type>
+    <rarity>Silver</rarity>
+    <code>bn0c7D+T</code>
+  </card>
+  <card>
+    <number>S064</number>
+    <name>Dark Power</name>
+    <type>Strong</type>
+    <rarity>Bronze</rarity>
+    <code>bn2_)$6k</code>
+  </card>
+  <card>
+    <number>S065</number>
+    <name>City Blues</name>
+    <type>Strong</type>
+    <rarity>Bronze</rarity>
+    <code>bn3?$bX!</code>
+  </card>
+  <card>
+    <number>S066</number>
+    <name>Decisive Battle</name>
+    <type>Strong</type>
+    <rarity>Bronze</rarity>
+    <code>bn3z}Cy7</code>
+  </card>
+  <card>
+    <number>S067</number>
+    <name>Secret Meeting</name>
+    <type>Strong</type>
+    <rarity>Normal</rarity>
+    <code>bn4Zy$&gt;K</code>
+  </card>
+  <card>
+    <number>S068</number>
+    <name>High Flyer</name>
+    <type>Strong</type>
+    <rarity>Normal</rarity>
+    <code>bn5:tb__</code>
+  </card>
+  <card>
+    <number>S069</number>
+    <name>Cursed Power</name>
+    <type>Strong</type>
+    <rarity>Normal</rarity>
+    <code>bn0cL0ZJ</code>
+  </card>
+  <card>
+    <number>S070</number>
+    <name>Peace of Mind</name>
+    <type>Strong</type>
+    <rarity>Normal</rarity>
+    <code>bn1CGm{^</code>
+  </card>
+  <card>
+    <number>S071</number>
+    <name>Hibernation</name>
+    <type>Strong</type>
+    <rarity>Normal</rarity>
+    <code>bn2!CO@r</code>
+  </card>
+  <card>
+    <number>S072E</number>
+    <name>Vicious Battle</name>
+    <type>Strong</type>
+    <rarity>Silver</rarity>
+    <code>bn3Th\M0</code>
+  </card>
+  <card>
+    <number>S073E</number>
+    <name>Primal Fight</name>
+    <type>Strong</type>
+    <rarity>Silver</rarity>
+    <code>bn44d=nD</code>
+  </card>
+  <card>
+    <number>S074</number>
+    <name>Primeval Beat</name>
+    <type>Strong</type>
+    <rarity>Bronze</rarity>
+    <code>bn4p_{3X</code>
+  </card>
+  <card>
+    <number>S075</number>
+    <name>Longing for the Past</name>
+    <type>Strong</type>
+    <rarity>Bronze</rarity>
+    <code>bn5P[\Tl</code>
+  </card>
+  <card>
+    <number>S076</number>
+    <name>New Generation</name>
+    <type>Strong</type>
+    <rarity>Bronze</rarity>
+    <code>bn60W=v#</code>
+  </card>
+  <card>
+    <number>S077</number>
+    <name>Excess Strength</name>
+    <type>Strong</type>
+    <rarity>Normal</rarity>
+    <code>bn6lR{;8</code>
+  </card>
+  <card>
+    <number>S078</number>
+    <name>Eternal Vigilance</name>
+    <type>Strong</type>
+    <rarity>Normal</rarity>
+    <code>bn7LN\\L</code>
+  </card>
+  <card>
+    <number>S079</number>
+    <name>Family Bonds</name>
+    <type>Strong</type>
+    <rarity>Normal</rarity>
+    <code>bn-a3{3Y</code>
+  </card>
+  <card>
+    <number>S080</number>
+    <name>Complete Burning Battle</name>
+    <type>Strong</type>
+    <rarity>Normal</rarity>
+    <code>bn.A/\Tm</code>
+  </card>
+  <card>
+    <number>S081</number>
+    <name>Relaxing Sauna</name>
+    <type>Strong</type>
+    <rarity>Normal</rarity>
+    <code>bn.}*=v$</code>
+  </card>
+  <card>
+    <number>S082</number>
+    <name>Rough Training</name>
+    <type>Strong</type>
+    <rarity>Normal</rarity>
+    <code>bn/]%{;9</code>
+  </card>
+  <card>
+    <number>S083</number>
+    <name>Tempered Spirit</name>
+    <type>Strong</type>
+    <rarity>Normal</rarity>
+    <code>bn0&lt;~\\M</code>
+  </card>
+  <card>
+    <number>S063</number>
+    <name>Lone Warrior</name>
+    <type>Strong</type>
+    <rarity>Normal</rarity>
+    <code>bn5P]=Me</code>
+  </card>
+  <card>
+    <number>S064</number>
+    <name>Dark Power</name>
+    <type>Strong</type>
+    <rarity>Bronze</rarity>
+    <code>bn60Xzny</code>
+  </card>
+  <card>
+    <number>S018</number>
+    <name>Turnaround Blow</name>
+    <type>Strong</type>
+    <rarity>Normal</rarity>
+    <code>bn44ezg=</code>
+  </card>
+  <card>
+    <number>S024</number>
+    <name>Hidden Strength</name>
+    <type>Strong</type>
+    <rarity>Normal</rarity>
+    <code>bn4pa\+Q</code>
+  </card>
+  <card>
+    <number>S067</number>
+    <name>Secret Meeting</name>
+    <type>Strong</type>
+    <rarity>Normal</rarity>
+    <code>bn6lT\41</code>
+  </card>
+  <card>
+    <number>S068</number>
+    <name>High Flyer</name>
+    <type>Strong</type>
+    <rarity>Normal</rarity>
+    <code>bn7LP=UE</code>
+  </card>
+  <card>
+    <number>S069</number>
+    <name>Cursed Power</name>
+    <type>Strong</type>
+    <rarity>Normal</rarity>
+    <code>bn-a5\+R</code>
+  </card>
+  <card>
+    <number>S070</number>
+    <name>Peace of Mind</name>
+    <type>Strong</type>
+    <rarity>Normal</rarity>
+    <code>bn.A1=Mf</code>
+  </card>
+  <card>
+    <number>S071</number>
+    <name>Hibernation</name>
+    <type>Strong</type>
+    <rarity>Normal</rarity>
+    <code>bn.}+znz</code>
+  </card>
+  <card>
+    <number>S072E</number>
+    <name>Vicious Battle</name>
+    <type>Strong</type>
+    <rarity>Silver</rarity>
+    <code>bn3Th\M0</code>
+  </card>
+  <card>
+    <number>S073E</number>
+    <name>Primal Fight</name>
+    <type>Strong</type>
+    <rarity>Silver</rarity>
+    <code>bn44d=nD</code>
+  </card>
+  <card>
+    <number>S084E</number>
+    <name>Master and Pupil (Galleon)</name>
+    <type>Strong</type>
+    <rarity>Silver</rarity>
+    <code>bn0xz=}a</code>
+  </card>
+  <card>
+    <number>S085E</number>
+    <name>Completed Training</name>
+    <type>Strong</type>
+    <rarity>Silver</rarity>
+    <code>bn1Xu{Bu</code>
+  </card>
+  <card>
+    <number>S095E</number>
+    <name>Chivalrous Fighters</name>
+    <type>Strong</type>
+    <rarity>Silver</rarity>
+    <code>bn-a4>0~</code>
+  </card>
+  <card>
+    <number>S087E</number>
+    <name>Harmonious Breath</name>
+    <type>Strong</type>
+    <rarity>Bronze</rarity>
+    <code>bn2tm>(A</code>
+  </card>
+  <card>
+    <number>S143E</number>
+    <name>Awakening Fever</name>
+    <type>Strong</type>
+    <rarity>Normal</rarity>
+    <code>bn.A0zPA</code>
+  </card>
+  <card>
+    <number>S104E</number>
+    <name>Ninja Fighters</name>
+    <type>Strong</type>
+    <rarity>Silver</rarity>
+    <code>bn3Ti>Gz</code>
+  </card>
+  <card>
+    <number>S105E</number>
+    <name>Royal Lineage</name>
+    <type>Strong</type>
+    <rarity>Silver</rarity>
+    <code>bn44d{i2</code>
+  </card>
+  <card>
+    <number>S113E</number>
+    <name>Mecha Fighters</name>
+    <type>Strong</type>
+    <rarity>Silver</rarity>
+    <code>bn.}*{po</code>
+  </card>
+  <card>
+    <number>S114E</number>
+    <name>Essence of Ancient Arts</name>
+    <type>Strong</type>
+    <rarity>Silver</rarity>
+    <code>bn/]&amp;]6&amp;</code>
+  </card>
+  <card>
+    <number>S124E</number>
+    <name>Forbidden Power</name>
+    <type>Strong</type>
+    <rarity>Gold</rarity>
+    <code>bn/]&amp;]6&amp;</code>
+  </card>
+  <card>
+    <number>S153E</number>
+    <name>Master and Pupil (Kaiser Coral)</name>
+    <type>Strong</type>
+    <rarity>Silver</rarity>
+    <code>bn0=#=UF</code>
+  </card>
+  <card>
+    <number>S125E</number>
+    <name>Dynamic Jump</name>
+    <type>Strong</type>
+    <rarity>Silver</rarity>
+    <code>bn7LO[ZW</code>
+  </card>
+  <card>
+    <number>S126E</number>
+    <name>Friends Forever</name>
+    <type>Strong</type>
+    <rarity>Silver</rarity>
+    <code>bn-a4z1d</code>
+  </card>
+  <card>
+    <number>S129E</number>
+    <name>Wicked Car Chase</name>
+    <type>Strong</type>
+    <rarity>Normal</rarity>
+    <code>bn/]&amp;z9D</code>
+  </card>
+  <card>
+    <number>S148E</number>
+    <name>The Great Escape</name>
+    <type>Strong</type>
+    <rarity>Normal</rarity>
+    <code>bn1Xw=>I</code>
+  </card>
+  <card>
+    <number>S133E</number>
+    <name>Destructive Desire</name>
+    <type>Strong</type>
+    <rarity>Gold</rarity>
+    <code>bn28r[b8</code>
+  </card>
+  <card>
+    <number>S152E</number>
+    <name>Mighty Fighter</name>
+    <type>Strong</type>
+    <rarity>Silver</rarity>
+    <code>bn/]'\42</code>
+  </card>
+  <card>
+    <number>S134E</number>
+    <name>Gaia Fight</name>
+    <type>Strong</type>
+    <rarity>Silver</rarity>
+    <code>bn2tn=&amp;L</code>
+  </card>
+  <card>
+    <number>S149E</number>
+    <name>Total Domination</name>
+    <type>Strong</type>
+    <rarity>Normal</rarity>
+    <code>bn28rz_]</code>
+  </card>
+  <card>
+    <number>S137E</number>
+    <name>Victory Road</name>
+    <type>Strong</type>
+    <rarity>Gold</rarity>
+    <code>bn4pa=/+</code>
+  </card>
+  <card>
+    <number>S138E</number>
+    <name>Absolute Being</name>
+    <type>Strong</type>
+    <rarity>Silver</rarity>
+    <code>bn5P\zP@</code>
+  </card>
+  <card>
+    <number>S151E</number>
+    <name>Imperial Guards</name>
+    <type>Strong</type>
+    <rarity>Normal</rarity>
+    <code>bn3Tj=F(</code>
+  </card>
+  <card>
+    <number>S136E</number>
+    <name>Kaiser Fighters</name>
+    <type>Strong</type>
+    <rarity>Normal</rarity>
+    <code>bn44e[it</code>
+  </card>
+  <card>
+    <number>S144E</number>
+    <name>Karate Fighting</name>
+    <type>Strong</type>
+    <rarity>Normal</rarity>
+    <code>bn.}+[qU</code>
+  </card>
+  <card>
+    <number>S086E</number>
+    <name>Hunger for Battle</name>
+    <type>Strong</type>
+    <rarity>Bronze</rarity>
+    <code>bn28q\d-</code>
+  </card>
+  <card>
+    <number>S125E</number>
+    <name>Shining Supernova</name>
+    <type>Strong</type>
+    <rarity>Bronze</rarity>
+    <code>bn0xz{x0</code>
+  </card>
+  <card>
+    <number>S127E</number>
+    <name>Narrow Victory</name>
+    <type>Strong</type>
+    <rarity>Bronze</rarity>
+    <code>bn.A0[Rx</code>
+  </card>
+  <card>
+    <number>S088E</number>
+    <name>Sunshine Spirit</name>
+    <type>Strong</type>
+    <rarity>Bronze</rarity>
+    <code>bn3Th{JU</code>
+  </card>
+  <card>
+    <number>S097E</number>
+    <name>Go Forth!</name>
+    <type>Strong</type>
+    <rarity>Bronze</rarity>
+    <code>bn.}*\sJ</code>
+  </card>
+  <card>
+    <number>S096E</number>
+    <name>Absolute Warrior</name>
+    <type>Strong</type>
+    <rarity>Bronze</rarity>
+    <code>bn.A/{R6</code>
+  </card>
+  <card>
+    <number>S106E</number>
+    <name>Stage of Honor</name>
+    <type>Strong</type>
+    <rarity>Bronze</rarity>
+    <code>bn4p].F</code>
+  </card>
+  <card>
+    <number>S107E</number>
+    <name>Crude Tactics</name>
+    <type>Strong</type>
+    <rarity>Bronze</rarity>
+    <code>bn5P\>OZ</code>
+  </card>
+  <card>
+    <number>S115E</number>
+    <name>Iron Blood</name>
+    <type>Strong</type>
+    <rarity>Bronze</rarity>
+    <code>bno=!>W;</code>
+  </card>
+  <card>
+    <number>S135E</number>
+    <name>Advance Celebration</name>
+    <type>Strong</type>
+    <rarity>Bronze</rarity>
+    <code>bn3TizH'</code>
+  </card>
+  <card>
+    <number>S139E</number>
+    <name>Advance Celebration</name>
+    <type>Strong</type>
+    <rarity>Bronze</rarity>
+    <code>bn60X[qT</code>
+  </card>
+</data>
