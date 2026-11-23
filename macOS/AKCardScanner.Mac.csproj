@@ -16,8 +16,9 @@
     <PackageReference Include="Avalonia.Themes.Fluent" Version="11.3.23" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="..\CardData\*.xml" Link="CardData\%(Filename)%(Extension)">
+    <Content Include="CardData\cards.json">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
+    <AvaloniaResource Include="Assets\Fonts\*.ttf" />
   </ItemGroup>
 </Project>

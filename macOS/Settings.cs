@@ -8,6 +8,7 @@ namespace AKCardScanner;
 internal class Settings
 {
     public int DefaultPort { get; set; } = 9876;
+    public string Version { get; set; } = "";
 
     public static string Folder => Path.Combine(
         Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData), "AKCardScanner");
