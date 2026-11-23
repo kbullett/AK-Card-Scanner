@@ -26,6 +26,7 @@ public class MainWindow : Window
     private static readonly Dictionary<string, string> PileName = new() { ["A"] = "Animal", ["S"] = "Strong", ["M"] = "Miracle" };
 
     private readonly List<Card> _all;
+    private readonly List<List<Card>> _groups;
     private readonly Settings _settings = Settings.Load();
     private readonly PlayClient _play = new();
 
@@ -73,6 +74,7 @@ public class MainWindow : Window
         WindowStartupLocation = WindowStartupLocation.CenterScreen;
 
         _all = CardStore.Load();
+        _groups = CardStore.Group(_all);
         _play.Port = _settings.DefaultPort;
         _version = Array.IndexOf(CardStore.Versions, _settings.Version) >= 0 ? _settings.Version : "";
 
@@ -245,13 +247,15 @@ public class MainWindow : Window
 
     // ───────────────────────── Data ─────────────────────────
 
+    private bool InVersion(Card c) => _version == "" || (!string.IsNullOrEmpty(c.Version) && CardStore.VersionIndex(c.Version) <= CardStore.VersionIndex(_version));
+
     private List<Card> Visible(string pile)
     {
-        int vmax = CardStore.VersionIndex(_version);
         string q = _query.Trim();
-        return _all.Where(c => c.Pile == pile
-            && (_version == "" || (!string.IsNullOrEmpty(c.Version) && CardStore.VersionIndex(c.Version) <= vmax))
-            && (q == "" || c.Name.Contains(q, StringComparison.OrdinalIgnoreCase) || c.Number_.Contains(q, StringComparison.OrdinalIgnoreCase))).ToList();
+        return _groups.Where(g => g[0].Pile == pile)
+            .Select(g => CardStore.Best(g.Where(InVersion)))
+            .Where(c => c != null && (q == "" || c.Name.Contains(q, StringComparison.OrdinalIgnoreCase) || c.Number_.Contains(q, StringComparison.OrdinalIgnoreCase)))
+            .ToList();
     }
 
     private void SelectSeed()
@@ -595,7 +599,13 @@ public class MainWindow : Window
         var dropped = new List<string>();
         var saveQ = _query; _query = "";
         foreach (var p in Piles)
-            if (_hand[p] != null && !Visible(p).Any(c => c.Code == _hand[p].Code)) { dropped.Add(_hand[p].Name); _hand[p] = null; }
+            if (_hand[p] != null && !Visible(p).Any(c => c.Code == _hand[p].Code))
+            {
+                // same card, another printing for this version? swap it in; otherwise drop it
+                var g = _groups.First(gr => gr.Any(c => c.Code == _hand[p].Code));
+                var alt = CardStore.Best(g.Where(InVersion));
+                if (alt != null) _hand[p] = alt; else { dropped.Add(_hand[p].Name); _hand[p] = null; }
+            }
         _query = saveQ;
         if (dropped.Count > 0) Toast($"Removed {string.Join(", ", dropped)}: not in {_version}");
         Render();

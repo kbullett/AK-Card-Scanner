@@ -56,6 +56,35 @@ public static class CardStore
 
     public static int VersionIndex(string v) => string.IsNullOrEmpty(v) ? 99 : Array.IndexOf(Versions, v);
 
+    // Several barcodes can be printings of one card (same number and name, e.g. a Gold Ver 4 card and a
+    // Normal Evo 6 reissue). The fan shows each card once, using its best printing for the chosen version.
+    private static readonly string[] RarityOrder = { "Kaiser", "Ultra", "Gold", "Silver", "Bronze", "Normal" };
+    private static readonly string[] StatusOrder = { "Tested", "In app", "Untested", "Conflict" };
+
+    public static List<List<Card>> Group(List<Card> all)
+    {
+        // Miracle names may or may not carry the animal in brackets; other cards keep theirs (e.g. "Lion (Prototype)")
+        string Stem(Card c) => new string(((c.Pile == "M" ? (c.Name ?? "").Split('(')[0] : c.Name) ?? "").Where(char.IsLetterOrDigit).ToArray()).ToLowerInvariant();
+        // Animal and Strong cards are identified by name: the same card can carry different numbers in the
+        // English and Japanese releases. Miracle names repeat across cards, so their number stays in the key.
+        var groups = all.GroupBy(c => (c.Pile, c.Pile == "M" ? c.Number ?? "" : "", Stem(c))).Select(g => g.ToList()).ToList();
+        foreach (var g in groups.Where(g => g.Count > 1 && g[0].Pile == "M"))
+        {
+            // Miracle names sometimes carry the animal in brackets; show the fuller name for every printing
+            var name = g.Select(c => c.Name).OrderByDescending(n => n.Length).First();
+            foreach (var c in g) c.Name = name;
+        }
+        return groups;
+    }
+
+    public static Card Best(IEnumerable<Card> printings)
+    {
+        int R(string r) { int i = Array.IndexOf(RarityOrder, r); return i < 0 ? 99 : i; }
+        int S(string s) { int i = Array.IndexOf(StatusOrder, s); return i < 0 ? 99 : i; }
+        int Stats(Card c) => new object[] { c.Strength, c.Health, c.Guts, c.MiraclePower, c.GoldAttack, c.Effect }.Count(o => o != null);
+        return printings.OrderBy(c => R(c.Rarity)).ThenBy(c => S(c.Status)).ThenByDescending(Stats).FirstOrDefault();
+    }
+
     // Optional card art: CardArt/<number>.jpg|png in the Application Support folder.
     private static Dictionary<string, string> _art;
     public static string ArtPath(Card c)
