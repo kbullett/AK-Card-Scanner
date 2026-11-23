@@ -2,9 +2,9 @@
 
 A native macOS app for playing **Animal Kaiser** in the [**Play!** emulator](https://github.com/jpd002/Play-). Fan through the cards, pick an Animal, Strong and Miracle card, and press **Scan cards**: the app sends their barcodes to Play!'s Arcade I/O HTTP Server, as if you had swiped them at the cabinet.
 
-![AK Card Scanner on macOS: a fan of Miracle cards, the selected card's stats on the right, and two picked cards in the hand at the bottom](docs/screenshot.png)
+![AK Card Scanner on macOS: a fan of Animal cards centred on King Cobra, its stats on the right, and the empty hand slots at the bottom](docs/screenshot.png)
 
-*Card art is drawn from the card data unless you add your own images (see [Card art](#card-art)).*
+*Shown with card art added locally (see [Card art](#card-art)). Card images © Bandai Namco; the app does not include them.*
 
 
 ## About this fork
@@ -18,7 +18,9 @@ The fork does not ship a Windows build. Gama-Tech's Windows source is still at t
 
 
 ## Disclaimer
-This application contains no copyrighted material. The card list is text: card numbers, names, stats and 8-character barcode strings that are freely available online. The app sends those strings to a port on your own machine, which tools like `curl` can do too. No card images or game files are included.
+The app ships no card images, ROMs or other game files. The card list is text: card numbers, names, stats and 8-character barcode strings that are freely available online. The app sends those strings to a port on your own machine, which tools like `curl` can do too.
+
+The screenshot above shows Animal Kaiser card art, © Bandai Namco, which was added locally for illustration. Animal Kaiser is a trademark of Bandai Namco; this project is not affiliated with or endorsed by Bandai Namco.
 
 
 ## Install
