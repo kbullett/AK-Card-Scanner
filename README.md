@@ -74,12 +74,15 @@ The window keeps its shape and scales to whatever size you make it. The port and
 
 
 ## Card data
-The cards are in [`macOS/CardData/cards.json`](macOS/CardData/cards.json), one entry per barcode, with the card's pile, number, name, rarity, stats, English release version and whether the barcode is known to work. Where a card has several printings (for example a Gold original and a later reissue), the app shows it once and sends the best printing available in the chosen version.
+The cards are in [`macOS/CardData/cards.json`](macOS/CardData/cards.json), one entry per barcode, with the card's pile, number, name, rarity, English release version and, for Version 1 cards, stats. Where a card has several printings (for example a Gold original and a later reissue), the app shows it once and sends the best printing available in the chosen version.
 
-The list was merged from:
-- the original AK Card Scanner card lists (Gama-Tech);
-- the community barcode spreadsheet in [zybuilds/animal-kaiser-playable](https://github.com/zybuilds/animal-kaiser-playable), for stats, versions and tested barcodes;
-- the official [Animal Kaiser+ card list](https://bandainamco-am.co.jp/am/vg/akplus/cardlist/), for card numbers where two numbering schemes disagree.
+The list comes only from the community [**Barcode List**](https://docs.google.com/spreadsheets/d/1CbBiaGXh8Kiq20VubqkGdwByh6mY6jTwFGv_XPnkyVM) spreadsheet. Each barcode takes its version from the first version tab it appears on; the three export tabs add barcodes missing from the version tabs. The Japanese Animal Kaiser+ tabs are left out, because their barcodes are for a different game. Rows without a card number or with a damaged barcode are skipped.
+
+To rebuild after the spreadsheet changes, download it as text (File > Download, one CSV block per tab, each headed `## Sheet name: <tab>`) and run:
+
+```
+python3 macOS/CardData/from_sheet.py <downloaded file> macOS/CardData/cards.json
+```
 
 To use your own list without rebuilding, put a `cards.json` in the same format at `~/Library/Application Support/AKCardScanner/cards.json`.
 
