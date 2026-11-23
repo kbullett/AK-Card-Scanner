@@ -51,7 +51,7 @@ for tab, ver in VER.items():
                             'au': (f'{au} {lv}' if au not in ('', '-') else None)})
             else:
                 rec.update({'mp': i(g.get('Power', '')), 'e': g.get('Miracle Effect', '').strip() or None, 'k': g.get('Match', '').strip() or None})
-            add({k: v for k, v in rec.items() if v not in (None, '')}, ver)
+            add({k: v for k, v in rec.items() if v not in (None, '', '-')}, ver)
 for tab in ('ANIMAL EXPORT SHEET', 'STRONG EXPORT SHEET', 'MIRACLE EXPORT SHEET'):
     rows = tabs[tab]; hdr = [h.strip().lower() for h in rows[0]]
     for r in rows[1:]:

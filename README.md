@@ -87,7 +87,7 @@ python3 macOS/CardData/from_sheet.py <downloaded file> macOS/CardData/cards.json
 To use your own list without rebuilding, put a `cards.json` in the same format at `~/Library/Application Support/AKCardScanner/cards.json`.
 
 ### Card art
-The app ships no card images. To show real card art, put images named by card number, for example `A001.jpg` or `S124E.png`, in:
+The app ships no card images. To show real card art, put images in the folder below. Name each one after the card: the pile letter, a hyphen, then the name in lower case without spaces or punctuation, for example `A-greatwhiteshark.jpg` or `S-virtuousskies.png`. Images named by card number, such as `A002.jpg`, also work, but some numbers are shared by two cards. JPEG, PNG and WebP are supported.
 
 ```
 ~/Library/Application Support/AKCardScanner/CardArt/

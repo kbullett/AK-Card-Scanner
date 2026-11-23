@@ -85,7 +85,7 @@ public static class CardStore
         return printings.OrderBy(c => R(c.Rarity)).ThenBy(c => S(c.Status)).ThenByDescending(Stats).FirstOrDefault();
     }
 
-    // Optional card art: CardArt/<number>.jpg|png in the Application Support folder.
+    // Optional card art in the Application Support folder's CardArt subfolder (jpg, png or webp).
     private static Dictionary<string, string> _art;
     public static string ArtPath(Card c)
     {
@@ -100,7 +100,12 @@ public static class CardStore
                     if (ext is ".jpg" or ".jpeg" or ".png" or ".webp") _art[Path.GetFileNameWithoutExtension(f)] = f;
                 }
         }
-        if (!string.IsNullOrEmpty(c.Number) && _art.TryGetValue(c.Number, out var p)) return p;
+        // Named by card, e.g. "A-greatwhiteshark.jpg" (pile, then the name in lower case without spaces or
+        // punctuation), or by number, e.g. "A002.jpg". The name wins, because some numbers are reused.
+        string name = ((c.Pile == "M" ? (c.Name ?? "").Split('(')[0] : c.Name) ?? "");
+        string key = c.Pile + "-" + new string(name.Where(char.IsLetterOrDigit).ToArray()).ToLowerInvariant();
+        if (_art.TryGetValue(key, out var p)) return p;
+        if (!string.IsNullOrEmpty(c.Number) && _art.TryGetValue(c.Number, out p)) return p;
         return null;
     }
 }
