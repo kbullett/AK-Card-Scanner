@@ -1,87 +1,106 @@
 # AK Card Scanner for macOS
 
-A macOS build of [**AK Card Scanner**](https://github.com/Gama-Tech/AK-Card-Scanner) by Gama-Tech. It sends barcode data to the "Arcade I/O HTTP Server" of the [**Play! PlayStation 2 emulator**](https://github.com/jpd002/Play-).
+A native macOS app for playing **Animal Kaiser** in the [**Play!** emulator](https://github.com/jpd002/Play-). Fan through the cards, pick an Animal, Strong and Miracle card, and press **Scan cards**: the app sends their barcodes to Play!'s Arcade I/O HTTP Server, as if you had swiped them at the cabinet.
 
-The upstream app is a Windows Forms program and runs only on Windows. This fork adds a native macOS version in [`macOS/`](macOS/), built with [Avalonia](https://avaloniaui.net/), with a card-fan interface styled after Animal Kaiser+. It runs natively on Apple Silicon, and on Intel Macs if built for `osx-x64`.
+![AK Card Scanner on macOS: a fan of Miracle cards, the selected card's stats on the right, and two picked cards in the hand at the bottom](docs/screenshot.png)
 
-The original Windows project remains at the repository root, unchanged apart from excluding `macOS/` from its build. That keeps upstream changes easy to merge.
+*Card art is drawn from the card data unless you add your own images (see [Card art](#card-art)).*
+
+
+## About this fork
+This is a fork of [**AK Card Scanner**](https://github.com/Gama-Tech/AK-Card-Scanner) by Gama-Tech, a Windows program that sends card barcodes to Play! from dropdown lists. This fork turns it into a Mac app with its own interface:
+
+- **Native macOS**, built with [Avalonia](https://avaloniaui.net/) on .NET 8. Runs on Apple Silicon, and on Intel Macs when built for `osx-x64`.
+- **A card fan instead of dropdowns**, styled after Animal Kaiser+, showing each card's rarity and stats.
+- **A cleaned-up card list** of about 400 cards, merged from the original lists and the community barcode spreadsheet, with damaged barcodes repaired or removed and one entry per card.
+
+The fork does not ship a Windows build. Gama-Tech's Windows source is still at the repository root, unchanged apart from keeping the Mac code out of its build, so upstream card fixes can be merged in. Windows users should use [the original](https://github.com/Gama-Tech/AK-Card-Scanner/releases/).
 
 
 ## Disclaimer
-This application contains no copyrighted material. It contains lists of 8-character strings that are freely available online, and sends them to a port on a local server. The same can be done with Postman or `curl`.
+This application contains no copyrighted material. The card list is text: card numbers, names, stats and 8-character barcode strings that are freely available online. The app sends those strings to a port on your own machine, which tools like `curl` can do too. No card images or game files are included.
 
 
-## Building the Mac app
-Requires the [.NET 8 SDK](https://dotnet.microsoft.com/download/dotnet/8.0) (`brew install --cask dotnet-sdk`).
+## Install
+You need the [.NET 8 SDK](https://dotnet.microsoft.com/download/dotnet/8.0) (`brew install --cask dotnet-sdk`).
 
 ```bash
-cd macOS
+git clone https://github.com/kbullett/AK-Card-Scanner.git
+cd AK-Card-Scanner/macOS
 ./build-app.sh            # Apple Silicon (osx-arm64)
 ./build-app.sh osx-x64    # Intel Macs
 ```
 
-The script writes `macOS/dist/AK Card Scanner.app`, self-contained so no .NET runtime is needed to run it. On a Mac it is ad-hoc signed automatically. Drag it into `/Applications`.
+This writes `macOS/dist/AK Card Scanner.app`, which is self-contained (no .NET runtime needed to run it) and ad-hoc signed. Drag it into `/Applications`.
 
-If you build on another OS, or copy the app onto a Mac from elsewhere, sign it on the Mac before first launch. Apple Silicon will not run unsigned code:
+If you copy the app onto a Mac from somewhere else, sign it there before the first launch, because Apple Silicon won't run unsigned code:
 
 ```bash
 xattr -cr "AK Card Scanner.app" && codesign --force --deep -s - "AK Card Scanner.app"
 ```
 
-The app is not notarised. If Gatekeeper still blocks it, right-click the app, choose **Open**, then confirm.
+The app isn't notarised. If macOS still refuses to open it, right-click it, choose **Open**, then confirm.
 
 
-## Enabling the Arcade I/O HTTP Server in Play!
-1. In the emulator go to **Settings → General**.
-2. Tick **Enable Arcade I/O HTTP Server**, then restart the emulator.
-
-The default port is `9876`. If you change it in Play!, set the same port in the Card Scanner. Use **Test Port** to check the connection.
+## Set up Play!
+1. In Play!, open **Settings → General**.
+2. Tick **Enable Arcade I/O HTTP Server**, then restart Play!.
+3. In AK Card Scanner, click **Play! · 9876** in the top right, check the port matches Play!'s (9876 by default), and press **Test connection**. The dot turns green when Play! answers.
 
 
 ## Using the app
-The Mac version picks cards from a fan rather than from lists.
 
-- **Choose a pile:** Animal, Strong or Miracle, from the tabs or with the `1`, `2` and `3` keys.
-- **Fan through it:** `←` and `→`, the arrow buttons, or click a card at the side. The fan wraps round at the ends.
-- **Select a card:** `Space`, `Return`, a click on the centre card, or **Select this card**. Selecting from the same pile again swaps the card; selecting the same card again deselects it.
-- **Your hand:** the three slots at the bottom show what is picked. Pick one, two or all three, and clear a slot with its ×.
-- **Scan cards:** sends the picked cards to Play!, Animal first. It waits 4 seconds after the Animal card (the game's animation blocks scans until then) and 1 second between later cards.
-- **Game version:** the dropdown limits the piles to cards released up to that version. Only cards whose English version is known appear when a version is chosen; *All versions* shows everything.
-- **Search:** filters the current pile by name or card number.
-- **Enter a barcode:** the barcode button in the top bar sends a code typed by hand, or from a USB barcode scanner that types like a keyboard.
-- **Play! connection:** the *Play! · port* button sets the port and tests the connection. The dot is green when Play! answered, red when it did not.
+| To | Do this |
+|---|---|
+| Switch pile | Click **Animal**, **Strong** or **Miracle**, or press `1`, `2`, `3` |
+| Fan through cards | `←` `→`, the arrow buttons, or click a card at the side. The fan wraps round at the ends |
+| Select or deselect a card | `Space` or `Return`, click the centre card, or **Select this card** |
+| Scan | **Scan cards** sends what's in your hand |
+| Find a card | Type a name or number in **Find a card** |
+| Limit to a game version | Pick it from the version dropdown |
+| Enter a barcode by hand | The barcode button in the top bar |
 
-The window keeps its shape and scales when resized.
+**Your hand** is the three slots at the bottom: one Animal, one Strong and one Miracle card. Pick one, two or all three. Selecting another card from the same pile swaps it in, and each slot has a × to clear it.
+
+**Scan cards** sends the picked cards in the order the game expects: the Animal card first, then a 4-second wait while the game plays its animation, then the Strong card, and the Miracle card a second later. If Play! can't be reached, the app says so and stops.
+
+**Game version** limits the piles to cards released up to that version. Only cards whose English release is known are included once a version is chosen; *All versions* shows everything.
+
+**Enter a barcode** sends any code you type. It also works with a USB barcode scanner that types like a keyboard: click in the box and scan.
+
+The window keeps its shape and scales to whatever size you make it. The port and game version are remembered between launches.
+
 
 ## Card data
-Cards come from `macOS/CardData/cards.json`, one entry per barcode with the card's number, name, rarity, stats and English version where known. It was merged from the original app's lists and the community barcode spreadsheet at [zybuilds/animal-kaiser-playable](https://github.com/zybuilds/animal-kaiser-playable).
+The cards are in [`macOS/CardData/cards.json`](macOS/CardData/cards.json), one entry per barcode, with the card's pile, number, name, rarity, stats, English release version and whether the barcode is known to work. Where a card has several printings (for example a Gold original and a later reissue), the app shows it once and sends the best printing available in the chosen version.
+
+The list was merged from:
+- the original AK Card Scanner card lists (Gama-Tech);
+- the community barcode spreadsheet in [zybuilds/animal-kaiser-playable](https://github.com/zybuilds/animal-kaiser-playable), for stats, versions and tested barcodes;
+- the official [Animal Kaiser+ card list](https://bandainamco-am.co.jp/am/vg/akplus/cardlist/), for card numbers where two numbering schemes disagree.
 
 To use your own list without rebuilding, put a `cards.json` in the same format at `~/Library/Application Support/AKCardScanner/cards.json`.
 
 ### Card art
-The app draws card frames from the card data, and ships no card images. To show real card art, put images named by card number (for example `A007E.jpg` or `S124E.png`) in:
+The app ships no card images. To show real card art, put images named by card number, for example `A001.jpg` or `S124E.png`, in:
 
 ```
 ~/Library/Application Support/AKCardScanner/CardArt/
 ```
 
-## Differences from the Windows version
-- **No auto-updater.** Upstream's updater downloads and runs a Windows installer. On the Mac, pull this fork and rebuild.
-- **Settings.** The server port and game version are saved to `~/Library/Application Support/AKCardScanner/settings.json` instead of the Windows user settings store.
-- **Card picker.** A fan of cards with stats replaces the dropdown lists, as described above.
-- **Card list.** `cards.json` replaces the XML lists, and can be overridden from Application Support.
+then restart the app. Cards without an image keep their drawn frame.
 
 
-## Windows
-For Windows, use the upstream project and its [releases](https://github.com/Gama-Tech/AK-Card-Scanner/releases/). The Windows source here builds the same as upstream (`dotnet build AKCardScanner.csproj` on Windows).
-
-
-## Other platforms
-[**Card Collections**](https://github.com/Bebeq/Card-Collections) by Bebeq is a cross-platform web server application that displays, stores and sends barcode data, including scanning from a mobile device.
+## Repository layout
+| Path | What |
+|---|---|
+| `macOS/` | The Mac app: source, card data, fonts and `build-app.sh` |
+| `docs/` | README images |
+| repository root | Gama-Tech's original Windows source, kept for merging upstream changes |
 
 
 ## AK Barcode Preservation Project
-The codes come from the community-run AK barcode preservation project: [**Barcode List**](https://docs.google.com/spreadsheets/d/1CbBiaGXh8Kiq20VubqkGdwByh6mY6jTwFGv_XPnkyVM). To submit missing cards, join the [**Unofficial Community Discord Server**](https://discord.gg/kaiser-community-1006111395424768000).
+The barcodes come from the community-run AK barcode preservation project: [**Barcode List**](https://docs.google.com/spreadsheets/d/1CbBiaGXh8Kiq20VubqkGdwByh6mY6jTwFGv_XPnkyVM). To submit missing cards, join the [**Unofficial Community Discord Server**](https://discord.gg/kaiser-community-1006111395424768000).
 
 
 ## Licence
