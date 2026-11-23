@@ -430,3 +430,6 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+# macOS build output
+macOS/dist/

@@ -43,4 +43,11 @@
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
     </None>
   </ItemGroup>
+  <ItemGroup>
+    <!-- The macOS port lives in macOS/ as its own project; keep it out of the Windows build. -->
+    <Compile Remove="macOS\**" />
+    <EmbeddedResource Remove="macOS\**" />
+    <None Remove="macOS\**" />
+    <Content Remove="macOS\**" />
+  </ItemGroup>
 </Project>
